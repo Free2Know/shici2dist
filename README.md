@@ -1,2 +1,2 @@
-# shici2dist
-诗词转npm项目下的dist目录下的json文件
+# shicitojson
+将诗词转换成json文件
