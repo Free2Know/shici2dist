@@ -1,0 +1,27 @@
+{
+  "_id": "14fd8e3101c74f02a422829ccb20f5a6",
+  "name": "朱雍",
+  "description": "",
+  "dynasty": "07.宋代",
+  "birth": "",
+  "death": "",
+  "poemIds": [
+    "f8e7c9323c78440581f967157305944a",
+    "cedd30ae56ae49219a2855f60e5a4274",
+    "b56d7ff35098450e9638e331f6767b6f",
+    "bffe2af4789249dfaaf88dd0cfed8963",
+    "5fefc31e27494f5abc981c0ad9c14358",
+    "84ff1e813c69484fa0174216a9b49636",
+    "f1fd08491f704e24a4a32055f1692d5e",
+    "a08d539ff35a4249b7cac49cee68c36b",
+    "9d0f5bda2f84478294c14069c74609a5",
+    "de783ab869c347b68a4a3a7851c5c808",
+    "4c8ddb4b16e74a4697b6c7e86e2e113d",
+    "2a45d694010749aca25e032fb553bf09",
+    "3e59c8951dcd4970b82238166af537ce",
+    "4f26bab1721c4c2789273e29c4d73fc0",
+    "57bd894d5ac841498163d21cd472f880",
+    "017811bbeeb741c48133f9c0c0fce34d",
+    "4326140ad50740e3a0e24b35c1f54b57"
+  ]
+}
