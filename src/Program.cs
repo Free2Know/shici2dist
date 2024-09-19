@@ -12,10 +12,10 @@ namespace shicitojson
     internal class Program
     {
         public static string libsPath = Path.Combine("..", "..", "..", "libs");
-        public static string distPath = Path.Combine("..", "..", "..", "dist");
+        public static string sourcePath = Path.Combine("..", "..", "..", "source");
         public static string textPath = Path.Combine(libsPath, "text");
-        public static string poetJsonPath = Path.Combine(distPath, "poets");
-        public static string poemJsonPath = Path.Combine(distPath, "poems");
+        public static string poetJsonPath = Path.Combine(sourcePath , "poets");
+        public static string poemJsonPath = Path.Combine(sourcePath , "poems");
 
         public static void Main(string[] args)
         {
@@ -70,7 +70,7 @@ namespace shicitojson
                         }
                         if (poemInfo.Length > 1 && poemInfo[1].StartsWith("tags="))
                         {
-                            poem.tags.AddRange(poemInfo[1].Replace("tags=", "").Split(','));
+                            poem.tags.AddRange(poemInfo[1].Replace("tags=", "").Split(',').Where(c=>!string.IsNullOrEmpty(c)));
                         }
                         poem.contents.AddRange(poemInfo.Skip(3).Where(c => !string.IsNullOrEmpty(c)));
 
