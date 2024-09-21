@@ -1,0 +1,27 @@
+{
+  "_id": "7d9e904891904ff1b9c03fd6d682465f",
+  "Name": "文廷式",
+  "Description": "",
+  "Dynasty": "清代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "夜坐向晓",
+      "PoetId": "7d9e904891904ff1b9c03fd6d682465f",
+      "PoetName": "文廷式",
+      "Form": "五绝",
+      "Tags": [
+        "清代",
+        "文廷式"
+      ],
+      "Contents": [
+        "遥夜苦难明，",
+        "他洲日方午。",
+        "一闻翰音啼，",
+        "吾岂愁风雨！"
+      ]
+    }
+  ]
+}

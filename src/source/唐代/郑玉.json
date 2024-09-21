@@ -1,0 +1,27 @@
+{
+  "_id": "e75d201a45bb4bb2b81eaae7f066bdcc",
+  "Name": "郑玉",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "苇谷",
+      "PoetId": "e75d201a45bb4bb2b81eaae7f066bdcc",
+      "PoetName": "郑玉",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "郑玉"
+      ],
+      "Contents": [
+        "水会三川漾碧波，",
+        "雕阴人唱采花歌。",
+        "旧时白翟今荒壤，",
+        "苇谷凄凄风雨多。"
+      ]
+    }
+  ]
+}

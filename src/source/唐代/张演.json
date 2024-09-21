@@ -1,0 +1,27 @@
+{
+  "_id": "abaa5724e8cc4fc699885a547eca7652",
+  "Name": "张演",
+  "Description": "张演，咸通十三年及第。诗一首。",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "社日村居",
+      "PoetId": "abaa5724e8cc4fc699885a547eca7652",
+      "PoetName": "张演",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "张演"
+      ],
+      "Contents": [
+        "鹅湖山下稻粱肥，",
+        "豚阱鸡栖对掩扉。",
+        "桑柘影斜春社散，",
+        "家家扶得醉人归。"
+      ]
+    }
+  ]
+}

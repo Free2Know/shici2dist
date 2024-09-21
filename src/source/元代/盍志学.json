@@ -1,0 +1,31 @@
+{
+  "_id": "6c8f45ffce1e4afe9d569dfcda6d27f8",
+  "Name": "盍志学",
+  "Description": "",
+  "Dynasty": "元代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "小桃红",
+      "PoetId": "6c8f45ffce1e4afe9d569dfcda6d27f8",
+      "PoetName": "盍志学",
+      "Form": "词",
+      "Tags": [
+        "元代",
+        "盍志学"
+      ],
+      "Contents": [
+        "杏花开后不曾晴，",
+        "败尽游人兴。",
+        "红雪飞来满芳径。",
+        "问春莺，",
+        "春莺无语风方定。",
+        "小蛮有情，",
+        "夜凉人静，",
+        "唱彻醉翁亭。"
+      ]
+    }
+  ]
+}

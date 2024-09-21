@@ -1,0 +1,27 @@
+{
+  "_id": "99f8f7e6db7b41298f8de640b9b5ef6b",
+  "Name": "隐者",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "李泌庭黑石诗",
+      "PoetId": "99f8f7e6db7b41298f8de640b9b5ef6b",
+      "PoetName": "隐者",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "隐者"
+      ],
+      "Contents": [
+        "神真炼形年未足，",
+        "化为我子功相续。",
+        "丞相瘗之刻玄玉，",
+        "仙路何长死何促。"
+      ]
+    }
+  ]
+}

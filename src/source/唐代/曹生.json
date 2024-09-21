@@ -1,0 +1,27 @@
+{
+  "_id": "10b25ac62bb345e7b348179c6b6a70c4",
+  "Name": "曹生",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "献卢常侍",
+      "PoetId": "10b25ac62bb345e7b348179c6b6a70c4",
+      "PoetName": "曹生",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "曹生"
+      ],
+      "Contents": [
+        "拜玉亭前闲送客，",
+        "此时孤恨感离乡。",
+        "寻思往岁绝缨事，",
+        "肯向朱门泣夜长。"
+      ]
+    }
+  ]
+}

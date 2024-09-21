@@ -1,0 +1,32 @@
+{
+  "_id": "efcd9bd920ae44fe8cc0eeddcc20f98a",
+  "Name": "赵显宏",
+  "Description": "",
+  "Dynasty": "元代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "殿前欢",
+      "PoetId": "efcd9bd920ae44fe8cc0eeddcc20f98a",
+      "PoetName": "赵显宏",
+      "Form": "词",
+      "Tags": [
+        "元代",
+        "赵显宏"
+      ],
+      "Contents": [
+        "楚云闲，",
+        "任他孤雁叫苍寒。",
+        "去留舒卷无心惯，",
+        "聚散之间。",
+        "趁西风出远山，",
+        "随急水流深涧，",
+        "为暮雨迷霄汉。",
+        "阳台事已，",
+        "秦岭飞还。"
+      ]
+    }
+  ]
+}

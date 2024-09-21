@@ -1,0 +1,28 @@
+{
+  "_id": "58784844b5f146ea8c4a047fe2f26dee",
+  "Name": "李仁本",
+  "Description": "",
+  "Dynasty": "宋代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "桂殿秋",
+      "PoetId": "58784844b5f146ea8c4a047fe2f26dee",
+      "PoetName": "李仁本",
+      "Form": "七绝",
+      "Tags": [
+        "宋代",
+        "李仁本"
+      ],
+      "Contents": [
+        "金带重，",
+        "紫袍宽。",
+        "到头不似羽衣闲。",
+        "君王若许供香火，",
+        "神武门前早挂冠。"
+      ]
+    }
+  ]
+}

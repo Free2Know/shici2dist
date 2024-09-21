@@ -1,0 +1,27 @@
+{
+  "_id": "d595fd511df84f888007afde35bcd90c",
+  "Name": "徐定超",
+  "Description": "",
+  "Dynasty": "清代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "咏乌桕",
+      "PoetId": "d595fd511df84f888007afde35bcd90c",
+      "PoetName": "徐定超",
+      "Form": "七绝",
+      "Tags": [
+        "清代",
+        "徐定超"
+      ],
+      "Contents": [
+        "家住枫林罕见枫，",
+        "晚秋闲步夕阳中。",
+        "此间好景无人识，",
+        "乌桕经霜满树红。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "635076b611ed45ec98f4f6b8fc526ecf",
+  "Name": "太上隐者",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "答人",
+      "PoetId": "635076b611ed45ec98f4f6b8fc526ecf",
+      "PoetName": "太上隐者",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "太上隐者"
+      ],
+      "Contents": [
+        "偶来松树下，",
+        "高枕石头眠。",
+        "山中无历日，",
+        "寒尽不知年。"
+      ]
+    }
+  ]
+}

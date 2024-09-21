@@ -1,0 +1,27 @@
+{
+  "_id": "06ac2caa6adc495e9a52902c44c8b478",
+  "Name": "王继鹏",
+  "Description": "閩王王繼鵬 ",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "批叶翘谏书纸尾",
+      "PoetId": "06ac2caa6adc495e9a52902c44c8b478",
+      "PoetName": "王继鹏",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "王继鹏"
+      ],
+      "Contents": [
+        "春色曾看紫陌头，",
+        "乱红飞尽不禁愁。",
+        "人情自厌芳华歇，",
+        "一叶随风落御沟。"
+      ]
+    }
+  ]
+}

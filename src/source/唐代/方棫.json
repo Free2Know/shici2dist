@@ -1,0 +1,27 @@
+{
+  "_id": "9de9d514949c4c91958efeaf55bec2eb",
+  "Name": "方棫",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "失题",
+      "PoetId": "9de9d514949c4c91958efeaf55bec2eb",
+      "PoetName": "方棫",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "方棫"
+      ],
+      "Contents": [
+        "午醉醒来晚，",
+        "无人梦自惊。",
+        "夕阳如有意，",
+        "长傍小窗明。"
+      ]
+    }
+  ]
+}

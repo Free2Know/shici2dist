@@ -1,0 +1,28 @@
+{
+  "_id": "82ab82a8b31c415a9992f6ff123aa2d1",
+  "Name": "冢中人",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "续郑郊吟",
+      "PoetId": "82ab82a8b31c415a9992f6ff123aa2d1",
+      "PoetName": "冢中人",
+      "Form": "未知",
+      "Tags": [
+        "唐代",
+        "冢中人"
+      ],
+      "Contents": [
+        "冢上两竿竹，",
+        "风吹常袅袅。",
+        "--郑郊下有百年人，",
+        "长眠不知晓。",
+        "--冢中人"
+      ]
+    }
+  ]
+}

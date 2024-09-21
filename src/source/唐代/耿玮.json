@@ -1,0 +1,26 @@
+{
+  "_id": "9aac912248224f4cb148198b1c09120a",
+  "Name": "耿玮",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "秋日",
+      "PoetId": "9aac912248224f4cb148198b1c09120a",
+      "PoetName": "耿玮",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "耿玮"
+      ],
+      "Contents": [
+        "返照入闾巷，",
+        "忧来谁共语?古道少人行，",
+        "秋风动禾黍。"
+      ]
+    }
+  ]
+}

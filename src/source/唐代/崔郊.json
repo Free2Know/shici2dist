@@ -1,0 +1,27 @@
+{
+  "_id": "cdebd14914074ce28fbeca60831c2cca",
+  "Name": "崔郊",
+  "Description": "崔郊，元和间秀才。诗一首。",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "赠婢",
+      "PoetId": "cdebd14914074ce28fbeca60831c2cca",
+      "PoetName": "崔郊",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "崔郊"
+      ],
+      "Contents": [
+        "公子王孙逐后尘，",
+        "绿珠垂泪滴罗巾。",
+        "侯门一入深似海，",
+        "从此萧郎是路人。"
+      ]
+    }
+  ]
+}

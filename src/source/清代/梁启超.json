@@ -1,0 +1,44 @@
+{
+  "_id": "74df3ebe2da744198ac3a45d8609d0ed",
+  "Name": "梁启超",
+  "Description": "",
+  "Dynasty": "清代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "太平洋遇雨",
+      "PoetId": "74df3ebe2da744198ac3a45d8609d0ed",
+      "PoetName": "梁启超",
+      "Form": "七绝",
+      "Tags": [
+        "清代",
+        "梁启超"
+      ],
+      "Contents": [
+        "一雨纵横亘二洲，",
+        "浪淘天地入东流。",
+        "却余人物淘难尽，",
+        "又挟风雷作远游。"
+      ]
+    },
+    {
+      "_id": null,
+      "Name": "读陆放翁集",
+      "PoetId": "74df3ebe2da744198ac3a45d8609d0ed",
+      "PoetName": "梁启超",
+      "Form": "七绝",
+      "Tags": [
+        "清代",
+        "梁启超"
+      ],
+      "Contents": [
+        "诗界千年靡靡风，",
+        "兵魂销尽国魂空。",
+        "诗中什九从军乐，",
+        "亘古男儿一放翁。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "ba234c98c89346bbb0598abf55ccaaec",
+  "Name": "韩弇",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "呈李续",
+      "PoetId": "ba234c98c89346bbb0598abf55ccaaec",
+      "PoetName": "韩弇",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "韩弇"
+      ],
+      "Contents": [
+        "我有敌国雠，",
+        "无人可为雪。",
+        "每至秦陇头，",
+        "游魂自呜咽。"
+      ]
+    }
+  ]
+}

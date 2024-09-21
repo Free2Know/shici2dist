@@ -1,0 +1,31 @@
+{
+  "_id": "aceba20f1aca47448eba3efd98bf4bf3",
+  "Name": "谢翱",
+  "Description": "",
+  "Dynasty": "宋代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "西台哭所思",
+      "PoetId": "aceba20f1aca47448eba3efd98bf4bf3",
+      "PoetName": "谢翱",
+      "Form": "五律",
+      "Tags": [
+        "宋代",
+        "谢翱"
+      ],
+      "Contents": [
+        "残年哭知已，",
+        "白日下荒台。",
+        "泪落吴江水，",
+        "随潮到海回。",
+        "故衣犹染碧，",
+        "后土不怜才。",
+        "未老山中客，",
+        "唯应赋八哀。"
+      ]
+    }
+  ]
+}

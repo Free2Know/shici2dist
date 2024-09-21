@@ -1,0 +1,27 @@
+{
+  "_id": "2ab7f532f461407ba84ea9d570760f3c",
+  "Name": "边贡",
+  "Description": "",
+  "Dynasty": "明代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "嫦娥",
+      "PoetId": "2ab7f532f461407ba84ea9d570760f3c",
+      "PoetName": "边贡",
+      "Form": "七绝",
+      "Tags": [
+        "明代",
+        "边贡"
+      ],
+      "Contents": [
+        "月宫清冷桂团团，",
+        "岁岁花开只自攀。",
+        "共在人间说天上，",
+        "不知天上忆人间。"
+      ]
+    }
+  ]
+}

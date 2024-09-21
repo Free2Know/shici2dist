@@ -1,0 +1,44 @@
+{
+  "_id": "0d95df2c761e4573b35e283bc78e8d5c",
+  "Name": "惠能",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "偈一",
+      "PoetId": "0d95df2c761e4573b35e283bc78e8d5c",
+      "PoetName": "惠能",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "惠能"
+      ],
+      "Contents": [
+        "菩提本非树，",
+        "明镜亦非台；",
+        "本来无一物，",
+        "何处染尘埃？"
+      ]
+    },
+    {
+      "_id": null,
+      "Name": "菩提偈",
+      "PoetId": "0d95df2c761e4573b35e283bc78e8d5c",
+      "PoetName": "惠能",
+      "Form": "五绝",
+      "Tags": [
+        "宋代",
+        "惠能"
+      ],
+      "Contents": [
+        "菩提本无树，",
+        "明镜亦非台。",
+        "本来无一物，",
+        "何处惹尘埃？"
+      ]
+    }
+  ]
+}

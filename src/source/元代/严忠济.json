@@ -1,0 +1,28 @@
+{
+  "_id": "4c67d16281fa440eaf3aea28a1d2fc31",
+  "Name": "严忠济",
+  "Description": "",
+  "Dynasty": "元代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "天净沙",
+      "PoetId": "4c67d16281fa440eaf3aea28a1d2fc31",
+      "PoetName": "严忠济",
+      "Form": "词",
+      "Tags": [
+        "元代",
+        "严忠济"
+      ],
+      "Contents": [
+        "宁可少活十年，",
+        "休得一日无权。",
+        "大丈夫时乖命蹇。",
+        "有朝一日天随人愿，",
+        "赛田文养客三千！"
+      ]
+    }
+  ]
+}

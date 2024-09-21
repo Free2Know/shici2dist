@@ -1,0 +1,27 @@
+{
+  "_id": "1c35494704c64a2eb7e81a9d1b1bbd7d",
+  "Name": "张仁溥",
+  "Description": "后唐大宁县丞。诗一首。",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "题龙窝洞",
+      "PoetId": "1c35494704c64a2eb7e81a9d1b1bbd7d",
+      "PoetName": "张仁溥",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "张仁溥"
+      ],
+      "Contents": [
+        "折花携酒看龙窝，",
+        "镂玉长旌俊彦过。",
+        "他日各为云外客，",
+        "碧纱笼却又如何。"
+      ]
+    }
+  ]
+}

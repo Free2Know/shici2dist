@@ -1,0 +1,27 @@
+{
+  "_id": "97d30a9346ef4d63bc7cff65e7fbc226",
+  "Name": "林鸿",
+  "Description": "",
+  "Dynasty": "明代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "投赠张红桥",
+      "PoetId": "97d30a9346ef4d63bc7cff65e7fbc226",
+      "PoetName": "林鸿",
+      "Form": "七绝",
+      "Tags": [
+        "明代",
+        "林鸿"
+      ],
+      "Contents": [
+        "桂殿焚香酒半醒，",
+        "露华如水点银屏。",
+        "含情欲诉心中事，",
+        "羞见牵牛织女星。"
+      ]
+    }
+  ]
+}

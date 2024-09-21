@@ -1,0 +1,27 @@
+{
+  "_id": "4b7a07c3e06e41c7ae5521767fa5d02d",
+  "Name": "陆子",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "嘲父",
+      "PoetId": "4b7a07c3e06e41c7ae5521767fa5d02d",
+      "PoetName": "陆子",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "陆子"
+      ],
+      "Contents": [
+        "陆余庆，",
+        "笔头无力觜头硬。",
+        "一朝受辞讼，",
+        "十日判不竟。"
+      ]
+    }
+  ]
+}

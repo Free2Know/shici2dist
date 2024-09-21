@@ -1,0 +1,27 @@
+{
+  "_id": "7f0edf0b0c3044f6ae5ad8f97c6e9b54",
+  "Name": "朱光弼",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "铜雀妓",
+      "PoetId": "7f0edf0b0c3044f6ae5ad8f97c6e9b54",
+      "PoetName": "朱光弼",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "朱光弼"
+      ],
+      "Contents": [
+        "魏王铜雀妓，",
+        "日暮管弦清。",
+        "一见西陵树，",
+        "心悲舞不成。"
+      ]
+    }
+  ]
+}

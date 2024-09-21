@@ -1,0 +1,27 @@
+{
+  "_id": "fe7c5d9716ef4089849ce0dc912a6493",
+  "Name": "冷朝光",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "越谿怨",
+      "PoetId": "fe7c5d9716ef4089849ce0dc912a6493",
+      "PoetName": "冷朝光",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "冷朝光"
+      ],
+      "Contents": [
+        "越王宫里如花人，",
+        "越水谿头采白蘋。",
+        "白蘋未尽人先尽，",
+        "谁见江南春复春。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "3c1b7cb190594c1d9c15df55aff8cea7",
+  "Name": "吴兴神女",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "赠谢府君",
+      "PoetId": "3c1b7cb190594c1d9c15df55aff8cea7",
+      "PoetName": "吴兴神女",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "吴兴神女"
+      ],
+      "Contents": [
+        "玉钗空中堕，",
+        "金钏色已歇。",
+        "独泣谢春风，",
+        "秋夜伤明月。"
+      ]
+    }
+  ]
+}

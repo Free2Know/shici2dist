@@ -1,0 +1,27 @@
+{
+  "_id": "e2d2fcd3f41840ea9ef2e00fc08f58d0",
+  "Name": "魏野",
+  "Description": "",
+  "Dynasty": "宋代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "寻隐者不遇",
+      "PoetId": "e2d2fcd3f41840ea9ef2e00fc08f58d0",
+      "PoetName": "魏野",
+      "Form": "七绝",
+      "Tags": [
+        "宋代",
+        "魏野"
+      ],
+      "Contents": [
+        "寻真误入蓬莱岛，",
+        "香风不动松花老；",
+        "采芝何处未归来，",
+        "白云遍地无人扫。"
+      ]
+    }
+  ]
+}

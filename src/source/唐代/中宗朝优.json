@@ -1,0 +1,27 @@
+{
+  "_id": "5a358a4b69064bfa89feb42674ad3c5c",
+  "Name": "中宗朝优",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "回波词",
+      "PoetId": "5a358a4b69064bfa89feb42674ad3c5c",
+      "PoetName": "中宗朝优",
+      "Form": "词",
+      "Tags": [
+        "唐代",
+        "中宗朝优"
+      ],
+      "Contents": [
+        "回波尔时栲栳，",
+        "怕妇也是大好。",
+        "外边只有裴谈，",
+        "内里无过李老。"
+      ]
+    }
+  ]
+}

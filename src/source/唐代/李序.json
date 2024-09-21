@@ -1,0 +1,27 @@
+{
+  "_id": "790de4d84d7e490c93b8e60321a9cedd",
+  "Name": "李序",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "笑巫诗",
+      "PoetId": "790de4d84d7e490c93b8e60321a9cedd",
+      "PoetName": "李序",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "李序"
+      ],
+      "Contents": [
+        "魍魉何曾见，",
+        "头旋即下神。",
+        "图他衫子段，",
+        "诈道大王嗔。"
+      ]
+    }
+  ]
+}

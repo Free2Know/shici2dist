@@ -1,0 +1,27 @@
+{
+  "_id": "bc11f0afaaf644548afc2e8f511e3068",
+  "Name": "天宝时人",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "玉龙子诗",
+      "PoetId": "bc11f0afaaf644548afc2e8f511e3068",
+      "PoetName": "天宝时人",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "天宝时人"
+      ],
+      "Contents": [
+        "圣运潜符瑞玉龙，",
+        "自兴云雨更无踪。",
+        "不如渭水沙中得，",
+        "争保銮舆复九重。"
+      ]
+    }
+  ]
+}

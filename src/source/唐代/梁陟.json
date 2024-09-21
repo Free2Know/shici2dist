@@ -1,0 +1,31 @@
+{
+  "_id": "c0f99c7a4cda421a8351cb6c357bcfeb",
+  "Name": "梁陟",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "送孙舍人归湘州",
+      "PoetId": "c0f99c7a4cda421a8351cb6c357bcfeb",
+      "PoetName": "梁陟",
+      "Form": "五律",
+      "Tags": [
+        "唐代",
+        "梁陟"
+      ],
+      "Contents": [
+        "盛才倾世重，",
+        "清论满朝归。",
+        "作隼他年计，",
+        "为鸳此日飞。",
+        "比肩移日近，",
+        "抗首出郊畿。",
+        "为报清漳水，",
+        "分明照锦衣。"
+      ]
+    }
+  ]
+}

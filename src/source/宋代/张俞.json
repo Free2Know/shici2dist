@@ -1,0 +1,27 @@
+{
+  "_id": "b9264b248f0549c4b3aa3c24ce0cf61c",
+  "Name": "张俞",
+  "Description": "张俞：字少愚，益州郫（今四川郫县）人。",
+  "Dynasty": "宋代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "蚕妇",
+      "PoetId": "b9264b248f0549c4b3aa3c24ce0cf61c",
+      "PoetName": "张俞",
+      "Form": "五绝",
+      "Tags": [
+        "宋代",
+        "张俞"
+      ],
+      "Contents": [
+        "昨日入城市，",
+        "归来泪满巾。",
+        "遍身罗绮者，",
+        "不是养蚕人。"
+      ]
+    }
+  ]
+}

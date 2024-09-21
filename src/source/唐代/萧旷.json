@@ -1,0 +1,27 @@
+{
+  "_id": "ae077de449e54d4bb5e8ebf528812e15",
+  "Name": "萧旷",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "与萧旷冥会诗",
+      "PoetId": "ae077de449e54d4bb5e8ebf528812e15",
+      "PoetName": "萧旷",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "萧旷"
+      ],
+      "Contents": [
+        "红兰吐艳间夭桃，",
+        "自喜寻芳数已遭。",
+        "珠珮鹊桥从此断，",
+        "遥天空恨碧云高。"
+      ]
+    }
+  ]
+}

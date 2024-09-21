@@ -1,0 +1,27 @@
+{
+  "_id": "dbe7df29187c4117b837c479021fb97a",
+  "Name": "徐兰",
+  "Description": "",
+  "Dynasty": "清代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "出关",
+      "PoetId": "dbe7df29187c4117b837c479021fb97a",
+      "PoetName": "徐兰",
+      "Form": "七绝",
+      "Tags": [
+        "清代",
+        "徐兰"
+      ],
+      "Contents": [
+        "凭山俯海古边州，",
+        "旆影翻飞见戍楼。",
+        "马后桃花马前雪，",
+        "出关争得不回头？"
+      ]
+    }
+  ]
+}

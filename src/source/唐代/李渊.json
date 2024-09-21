@@ -1,0 +1,27 @@
+{
+  "_id": "8f489c748e55417e9d84dd8e1798ca6d",
+  "Name": "李渊",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "嘲苏世长",
+      "PoetId": "8f489c748e55417e9d84dd8e1798ca6d",
+      "PoetName": "李渊",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "李渊"
+      ],
+      "Contents": [
+        "名长意短，",
+        "口正心邪。",
+        "弃忠贞于郑国，",
+        "忘信义于吾家。"
+      ]
+    }
+  ]
+}

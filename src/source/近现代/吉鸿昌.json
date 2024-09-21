@@ -1,0 +1,27 @@
+{
+  "_id": "0fa0d6c8b7f942f79c6058e004dbe18f",
+  "Name": "吉鸿昌",
+  "Description": "",
+  "Dynasty": "近现代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "恨不抗日死",
+      "PoetId": "0fa0d6c8b7f942f79c6058e004dbe18f",
+      "PoetName": "吉鸿昌",
+      "Form": "五绝",
+      "Tags": [
+        "近现代",
+        "吉鸿昌"
+      ],
+      "Contents": [
+        "恨不抗日死，",
+        "留作今日羞。",
+        "国破尚如此，",
+        "我何惜此头。"
+      ]
+    }
+  ]
+}

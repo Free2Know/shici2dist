@@ -1,0 +1,27 @@
+{
+  "_id": "f7e6e2872cf845e2b3d133ddba13c2da",
+  "Name": "李花开",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "孔庙口号",
+      "PoetId": "f7e6e2872cf845e2b3d133ddba13c2da",
+      "PoetName": "李花开",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "李花开"
+      ],
+      "Contents": [
+        "破落三间屋，",
+        "萧条一旅人。",
+        "不知负何事，",
+        "生死厄于陈。"
+      ]
+    }
+  ]
+}

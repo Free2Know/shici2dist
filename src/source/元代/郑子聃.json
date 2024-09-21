@@ -1,0 +1,28 @@
+{
+  "_id": "9bf936d118534eb8a90cf66b02bd56df",
+  "Name": "郑子聃",
+  "Description": "",
+  "Dynasty": "元代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "南歌子",
+      "PoetId": "9bf936d118534eb8a90cf66b02bd56df",
+      "PoetName": "郑子聃",
+      "Form": "词",
+      "Tags": [
+        "元代",
+        "郑子聃"
+      ],
+      "Contents": [
+        "我爱沂阳好，",
+        "民淳讼自稀。",
+        "谁言珥笔混莱夷。",
+        "行见离离秋草，",
+        "鞠园扉"
+      ]
+    }
+  ]
+}

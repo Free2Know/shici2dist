@@ -1,0 +1,29 @@
+{
+  "_id": "6d2ff12617ff49cc98c03a6fb3c28fdd",
+  "Name": "刘瑶",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "古意曲",
+      "PoetId": "6d2ff12617ff49cc98c03a6fb3c28fdd",
+      "PoetName": "刘瑶",
+      "Form": "五律",
+      "Tags": [
+        "唐代",
+        "刘瑶"
+      ],
+      "Contents": [
+        "梧桐阶下月团团，",
+        "洞房如水秋夜阑。",
+        "吴刀剪破机头锦，",
+        "茱萸花坠相思枕。",
+        "绿窗寂寞背灯时，",
+        "暗数寒更不成寝。"
+      ]
+    }
+  ]
+}

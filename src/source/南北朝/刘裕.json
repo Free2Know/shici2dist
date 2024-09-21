@@ -1,0 +1,27 @@
+{
+  "_id": "d1d7b3a8fb79472db811731f45fef9fe",
+  "Name": "刘裕",
+  "Description": "",
+  "Dynasty": "南北朝",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "自君之出矣",
+      "PoetId": "d1d7b3a8fb79472db811731f45fef9fe",
+      "PoetName": "刘裕",
+      "Form": "五绝",
+      "Tags": [
+        "南北朝",
+        "刘裕"
+      ],
+      "Contents": [
+        "自君之出矣，",
+        "金翠闇无精。",
+        "思君如日月，",
+        "回还昼夜生。"
+      ]
+    }
+  ]
+}

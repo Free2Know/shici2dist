@@ -1,0 +1,27 @@
+{
+  "_id": "c12b59e6fdde484db611ba2bfcd7cf57",
+  "Name": "王乔",
+  "Description": "王乔，安定太守。诗一首。",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "过故人旧宅",
+      "PoetId": "c12b59e6fdde484db611ba2bfcd7cf57",
+      "PoetName": "王乔",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "王乔"
+      ],
+      "Contents": [
+        "故人轩骑罢归来，",
+        "旧宅园林闲不开。",
+        "唯馀挟瑟楼中妇，",
+        "哭向平生歌舞台。"
+      ]
+    }
+  ]
+}

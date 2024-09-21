@@ -1,0 +1,27 @@
+{
+  "_id": "1abcaf141391459eaf8b240f930d4507",
+  "Name": "葛氏女",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "和潘雍",
+      "PoetId": "1abcaf141391459eaf8b240f930d4507",
+      "PoetName": "葛氏女",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "葛氏女"
+      ],
+      "Contents": [
+        "九天天远瑞烟浓，",
+        "驾鹤骖鸾意已同。",
+        "从此三山山上月，",
+        "琼花开处照春风。"
+      ]
+    }
+  ]
+}

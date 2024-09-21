@@ -1,0 +1,26 @@
+{
+  "_id": "880ddfae922f49b4adf784c8f9f90040",
+  "Name": "连庐",
+  "Description": "",
+  "Dynasty": "清代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "过故庐",
+      "PoetId": "880ddfae922f49b4adf784c8f9f90040",
+      "PoetName": "连庐",
+      "Form": "七绝",
+      "Tags": [
+        "清代",
+        "连庐"
+      ],
+      "Contents": [
+        "海上燕云涕泪多，",
+        "劫灰零乱感如何?马兵营外萧萧柳，",
+        "梦雨斜阳不忍过。"
+      ]
+    }
+  ]
+}

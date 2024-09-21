@@ -1,0 +1,27 @@
+{
+  "_id": "7795a01599c74f0ab458be054e39dcee",
+  "Name": "江妃",
+  "Description": "江妃 ",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "谢赐珍珠",
+      "PoetId": "7795a01599c74f0ab458be054e39dcee",
+      "PoetName": "江妃",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "江妃"
+      ],
+      "Contents": [
+        "桂叶双眉久不描，",
+        "残妆和泪污红绡。",
+        "长门尽日无梳洗，",
+        "何必珍珠慰寂寥。"
+      ]
+    }
+  ]
+}

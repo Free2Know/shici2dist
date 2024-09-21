@@ -1,0 +1,27 @@
+{
+  "_id": "e4505a87d4fc4fac8501c9d08e252938",
+  "Name": "少年",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "维扬少年与孟氏赠答诗",
+      "PoetId": "e4505a87d4fc4fac8501c9d08e252938",
+      "PoetName": "少年",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "少年"
+      ],
+      "Contents": [
+        "神女得张硕，",
+        "文君遇长卿。",
+        "逢时两相得，",
+        "聊足慰多情。"
+      ]
+    }
+  ]
+}

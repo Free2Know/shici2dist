@@ -1,0 +1,27 @@
+{
+  "_id": "36a3b49e2bc14b9aa637965e9bc6b2e2",
+  "Name": "破笛",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "邢君才旧宅三怪诗",
+      "PoetId": "36a3b49e2bc14b9aa637965e9bc6b2e2",
+      "PoetName": "破笛",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "破笛"
+      ],
+      "Contents": [
+        "当时得意气填心，",
+        "一曲君前直万金。",
+        "今日不如庭下竹，",
+        "风来犹得学龙吟。"
+      ]
+    }
+  ]
+}

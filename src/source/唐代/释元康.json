@@ -1,0 +1,28 @@
+{
+  "_id": "09505eef8b1043fcb523c5cd1619b72d",
+  "Name": "释元康",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "与讲师互谑",
+      "PoetId": "09505eef8b1043fcb523c5cd1619b72d",
+      "PoetName": "释元康",
+      "Form": "未知",
+      "Tags": [
+        "唐代",
+        "释元康"
+      ],
+      "Contents": [
+        "甘桃不结实，",
+        "苦李压低枝。",
+        "--释元康轮王千个子，",
+        "巷伯勿孙儿。",
+        "--讲师"
+      ]
+    }
+  ]
+}

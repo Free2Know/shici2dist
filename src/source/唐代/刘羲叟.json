@@ -1,0 +1,27 @@
+{
+  "_id": "e5bf1a18be304850a8f1d4ff0fe3fdb8",
+  "Name": "刘羲叟",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "同徐学士咏笋",
+      "PoetId": "e5bf1a18be304850a8f1d4ff0fe3fdb8",
+      "PoetName": "刘羲叟",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "刘羲叟"
+      ],
+      "Contents": [
+        "徐徐出土非人种，",
+        "枝叶难投日月壶。",
+        "为是因缘生此地，",
+        "从他长养譬如无。"
+      ]
+    }
+  ]
+}

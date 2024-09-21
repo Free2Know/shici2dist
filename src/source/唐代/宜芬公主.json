@@ -1,0 +1,31 @@
+{
+  "_id": "de1fc6dec6cd4f4c84a4e2ce0fd3b962",
+  "Name": "宜芬公主",
+  "Description": "宜芬公主 ",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "虚池驿题屏风",
+      "PoetId": "de1fc6dec6cd4f4c84a4e2ce0fd3b962",
+      "PoetName": "宜芬公主",
+      "Form": "五律",
+      "Tags": [
+        "唐代",
+        "宜芬公主"
+      ],
+      "Contents": [
+        "出嫁辞乡国，",
+        "由来此别难。",
+        "圣恩愁远道，",
+        "行路泣相看。",
+        "沙塞容颜尽，",
+        "边隅粉黛残。",
+        "妾心何所断，",
+        "他日望长安。"
+      ]
+    }
+  ]
+}

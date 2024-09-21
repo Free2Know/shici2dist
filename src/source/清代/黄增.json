@@ -1,0 +1,27 @@
+{
+  "_id": "e2fdafbf81cd4021bb84e6e06ed8366c",
+  "Name": "黄增",
+  "Description": "",
+  "Dynasty": "清代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "集杭州俗语诗",
+      "PoetId": "e2fdafbf81cd4021bb84e6e06ed8366c",
+      "PoetName": "黄增",
+      "Form": "七绝",
+      "Tags": [
+        "清代",
+        "黄增"
+      ],
+      "Contents": [
+        "色不迷人人自迷，",
+        "情人眼里出西施。",
+        "有缘千里来相会，",
+        "三笑徒然当一痴。"
+      ]
+    }
+  ]
+}

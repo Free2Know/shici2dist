@@ -1,0 +1,27 @@
+{
+  "_id": "a5bfe8f3a9c54fefb42bb0edc20fceee",
+  "Name": "颜荛",
+  "Description": "登进士第。昭宗时为中书舍人。诗一首。",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "戏张道人不饮酒",
+      "PoetId": "a5bfe8f3a9c54fefb42bb0edc20fceee",
+      "PoetName": "颜荛",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "颜荛"
+      ],
+      "Contents": [
+        "言自云山访我来，",
+        "每闻奇秘觉叨陪。",
+        "吾师不饮人间酒，",
+        "应待流霞即举杯。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "135e0c85a0534ae9b88a8a6be4b91e26",
+  "Name": "郑中丞",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "登汾上阁",
+      "PoetId": "135e0c85a0534ae9b88a8a6be4b91e26",
+      "PoetName": "郑中丞",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "郑中丞"
+      ],
+      "Contents": [
+        "汾桂秋水阔，",
+        "宛似到阊门。",
+        "惆怅江湖思，",
+        "惟将南客论。"
+      ]
+    }
+  ]
+}

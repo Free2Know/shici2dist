@@ -1,0 +1,27 @@
+{
+  "_id": "2fc279473bc54cddbed99797338c16a8",
+  "Name": "陈于王",
+  "Description": "",
+  "Dynasty": "清代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "题桃花扇传奇",
+      "PoetId": "2fc279473bc54cddbed99797338c16a8",
+      "PoetName": "陈于王",
+      "Form": "七绝",
+      "Tags": [
+        "清代",
+        "陈于王"
+      ],
+      "Contents": [
+        "玉树歌残迹已陈，",
+        "南朝宫殿柳条新。",
+        "福王少小风流惯，",
+        "不爱江山爱美人。"
+      ]
+    }
+  ]
+}

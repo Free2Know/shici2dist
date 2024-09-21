@@ -1,0 +1,27 @@
+{
+  "_id": "aceb7f427c5f450bb02e4d5fdac1860b",
+  "Name": "刘夷道",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "伤死奴",
+      "PoetId": "aceb7f427c5f450bb02e4d5fdac1860b",
+      "PoetName": "刘夷道",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "刘夷道"
+      ],
+      "Contents": [
+        "丹籍生涯浅，",
+        "黄泉归路深。",
+        "不及江陵树，",
+        "千秋长作林。"
+      ]
+    }
+  ]
+}

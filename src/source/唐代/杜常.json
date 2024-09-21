@@ -1,0 +1,27 @@
+{
+  "_id": "52bd4d5bbf97418c8cf9d685b82848fd",
+  "Name": "杜常",
+  "Description": "唐末人。诗一首。",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "华清宫",
+      "PoetId": "52bd4d5bbf97418c8cf9d685b82848fd",
+      "PoetName": "杜常",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "杜常"
+      ],
+      "Contents": [
+        "行尽江南数十程，",
+        "晓星残月入华清。",
+        "朝元阁上西风急，",
+        "都入长杨作雨声。"
+      ]
+    }
+  ]
+}

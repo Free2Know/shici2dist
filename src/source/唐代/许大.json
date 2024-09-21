@@ -1,0 +1,27 @@
+{
+  "_id": "157aff96ea5945da8267c58f2eabed43",
+  "Name": "许大",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "西山吟",
+      "PoetId": "157aff96ea5945da8267c58f2eabed43",
+      "PoetName": "许大",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "许大"
+      ],
+      "Contents": [
+        "自从明府归仙后，",
+        "出入尘寰直至今。",
+        "不是藏名混时俗，",
+        "卖药沽酒要安心。"
+      ]
+    }
+  ]
+}

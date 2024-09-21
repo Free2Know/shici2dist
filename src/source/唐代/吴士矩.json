@@ -1,0 +1,27 @@
+{
+  "_id": "f104bdddb7bd41d999f8d0e3e8c355ff",
+  "Name": "吴士矩",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "饮后献时相",
+      "PoetId": "f104bdddb7bd41d999f8d0e3e8c355ff",
+      "PoetName": "吴士矩",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "吴士矩"
+      ],
+      "Contents": [
+        "一夕心期一种欢，",
+        "那知疏散负杯盘。",
+        "尊前数片朝云在，",
+        "不许冯公子细看。"
+      ]
+    }
+  ]
+}

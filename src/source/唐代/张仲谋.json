@@ -1,0 +1,27 @@
+{
+  "_id": "6c1351a9912c41788a5ce29e03ee24bb",
+  "Name": "张仲谋",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "题搔口",
+      "PoetId": "6c1351a9912c41788a5ce29e03ee24bb",
+      "PoetName": "张仲谋",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "张仲谋"
+      ],
+      "Contents": [
+        "尝闻烧尾便拏空，",
+        "只过天门更一重。",
+        "大禹未生门未凿，",
+        "可能天下总无龙。"
+      ]
+    }
+  ]
+}

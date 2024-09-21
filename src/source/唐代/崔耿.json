@@ -1,0 +1,29 @@
+{
+  "_id": "ba18c5c2b2ab42df9801bae8d8b31ca5",
+  "Name": "崔耿",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "晚眺",
+      "PoetId": "ba18c5c2b2ab42df9801bae8d8b31ca5",
+      "PoetName": "崔耿",
+      "Form": "未知",
+      "Tags": [
+        "唐代",
+        "崔耿"
+      ],
+      "Contents": [
+        "江溶流落景，",
+        "山色凝暮烟。",
+        "衰发照秋日，",
+        "壮心减昔年。",
+        "愁吟长抱膝，",
+        "孰诉高高天。"
+      ]
+    }
+  ]
+}

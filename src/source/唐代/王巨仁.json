@@ -1,0 +1,27 @@
+{
+  "_id": "f41dfc9d5bb64b77b082bb5f042360c0",
+  "Name": "王巨仁",
+  "Description": "新罗国隐士。诗一首。",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "愤怨诗",
+      "PoetId": "f41dfc9d5bb64b77b082bb5f042360c0",
+      "PoetName": "王巨仁",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "王巨仁"
+      ],
+      "Contents": [
+        "于公恸哭三年旱，",
+        "邹衍含愁五月霜。",
+        "今我幽愁还似古，",
+        "皇天无语但苍苍。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "c8e3e07aafdb4ac3b2c88da99a244c01",
+  "Name": "王",
+  "Description": "",
+  "Dynasty": "元代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "浣溪沙",
+      "PoetId": "c8e3e07aafdb4ac3b2c88da99a244c01",
+      "PoetName": "王",
+      "Form": "五律",
+      "Tags": [
+        "元代",
+        "王"
+      ],
+      "Contents": [
+        "林樾人家急暮砧。",
+        "夕阳人影入江深。",
+        "倚阑疏快北风襟。",
+        "雨自北山明处黑，",
+        "云从白鸟去边阴。",
+        "几多秋思乱乡心。"
+      ]
+    }
+  ]
+}

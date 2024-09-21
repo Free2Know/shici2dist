@@ -1,0 +1,30 @@
+{
+  "_id": "6fac56802fd54fa4b37ec4f99dd0f1db",
+  "Name": "张仲宇",
+  "Description": "",
+  "Dynasty": "宋代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "如梦令",
+      "PoetId": "6fac56802fd54fa4b37ec4f99dd0f1db",
+      "PoetName": "张仲宇",
+      "Form": "词",
+      "Tags": [
+        "宋代",
+        "张仲宇"
+      ],
+      "Contents": [
+        "送过雕梁旧燕。",
+        "听到妆楼新雁。",
+        "菊讯一何迟，",
+        "倒尽清樽谁伴。",
+        "魂断。",
+        "魂断。",
+        "人与暮云俱远。"
+      ]
+    }
+  ]
+}

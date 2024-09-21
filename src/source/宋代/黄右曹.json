@@ -1,0 +1,31 @@
+{
+  "_id": "afa651cfa97d4e59afdcbf6b93c312f2",
+  "Name": "黄右曹",
+  "Description": "",
+  "Dynasty": "宋代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "卜算子",
+      "PoetId": "afa651cfa97d4e59afdcbf6b93c312f2",
+      "PoetName": "黄右曹",
+      "Form": "词",
+      "Tags": [
+        "宋代",
+        "黄右曹"
+      ],
+      "Contents": [
+        "清晓听麻姑，",
+        "来约西王母。",
+        "共取蟠桃簇玉盘，",
+        "来劝摩耶酒。",
+        "王母问摩耶，",
+        "此意还知否。",
+        "只为曾生我佛来，",
+        "更与千千寿。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "_id": "ba0c8ce66c444ca7a188df19ff4bfb92",
+  "Name": "殷七七",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "醉歌",
+      "PoetId": "ba0c8ce66c444ca7a188df19ff4bfb92",
+      "PoetName": "殷七七",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "殷七七"
+      ],
+      "Contents": [
+        "琴弹碧玉调，",
+        "药炼白朱砂。",
+        "解酝顷刻酒，",
+        "能开非时花。"
+      ]
+    },
+    {
+      "_id": null,
+      "Name": "阳春曲",
+      "PoetId": "ba0c8ce66c444ca7a188df19ff4bfb92",
+      "PoetName": "殷七七",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "殷七七"
+      ],
+      "Contents": [
+        "愁见唱阳春，",
+        "令人离肠结。",
+        "郎去未归家，",
+        "柳自飘香雪。"
+      ]
+    }
+  ]
+}

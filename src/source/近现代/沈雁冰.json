@@ -1,0 +1,27 @@
+{
+  "_id": "9db79cd8b4b14158ba8e1239e5f1efe2",
+  "Name": "沈雁冰",
+  "Description": "",
+  "Dynasty": "近现代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "接客僧",
+      "PoetId": "9db79cd8b4b14158ba8e1239e5f1efe2",
+      "PoetName": "沈雁冰",
+      "Form": "七绝",
+      "Tags": [
+        "近现代",
+        "沈雁冰"
+      ],
+      "Contents": [
+        "雁荡应名是若山，",
+        "山水奇秀人称赞。",
+        "赞美石僧勤接客，",
+        "客游雁荡乐忘返。"
+      ]
+    }
+  ]
+}

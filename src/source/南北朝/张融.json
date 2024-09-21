@@ -1,0 +1,27 @@
+{
+  "_id": "e56668c9e60c4c639136e3729f5dca19",
+  "Name": "张融",
+  "Description": "",
+  "Dynasty": "南北朝",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "别诗",
+      "PoetId": "e56668c9e60c4c639136e3729f5dca19",
+      "PoetName": "张融",
+      "Form": "五绝",
+      "Tags": [
+        "南北朝",
+        "张融"
+      ],
+      "Contents": [
+        "白云山上尽，",
+        "清风松下歇。",
+        "欲识离人悲，",
+        "孤台风明月。"
+      ]
+    }
+  ]
+}

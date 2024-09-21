@@ -1,0 +1,27 @@
+{
+  "_id": "f7c61ed95d2e419e85166ae2be97c878",
+  "Name": "麹崇裕",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "送司功入京",
+      "PoetId": "f7c61ed95d2e419e85166ae2be97c878",
+      "PoetName": "麹崇裕",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "麹崇裕"
+      ],
+      "Contents": [
+        "崇裕有幸会，",
+        "得遇明流行。",
+        "司士向京去，",
+        "旷野哭声哀。"
+      ]
+    }
+  ]
+}

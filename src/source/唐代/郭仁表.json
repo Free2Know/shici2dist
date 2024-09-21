@@ -1,0 +1,28 @@
+{
+  "_id": "787d8f1ec8d04b8f912eac3b0f1b522c",
+  "Name": "郭仁表",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "梦中辞",
+      "PoetId": "787d8f1ec8d04b8f912eac3b0f1b522c",
+      "PoetName": "郭仁表",
+      "Form": "未知",
+      "Tags": [
+        "唐代",
+        "郭仁表"
+      ],
+      "Contents": [
+        "飘风暴雨可思惟，",
+        "鹤望巢门敛翅飞。",
+        "吾道之宗正可依，",
+        "万物之先数在兹，",
+        "不能行此欲何为。"
+      ]
+    }
+  ]
+}

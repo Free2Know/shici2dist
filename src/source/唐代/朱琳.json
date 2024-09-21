@@ -1,0 +1,31 @@
+{
+  "_id": "cad7ef3d2e4045bfaa84e2882e44afc5",
+  "Name": "朱琳",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "开缄怨",
+      "PoetId": "cad7ef3d2e4045bfaa84e2882e44afc5",
+      "PoetName": "朱琳",
+      "Form": "五律",
+      "Tags": [
+        "唐代",
+        "朱琳"
+      ],
+      "Contents": [
+        "夫婿边庭久，",
+        "幽闺恨几重。",
+        "玉琴知别日，",
+        "金镜识愁容。",
+        "懒寄云中服，",
+        "慵开海上封。",
+        "年年得衣惯，",
+        "且试莫裁缝。"
+      ]
+    }
+  ]
+}

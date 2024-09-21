@@ -1,0 +1,27 @@
+{
+  "_id": "3daea607d3bc494ab8f0bac5e655c37e",
+  "Name": "选人",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "嘲高士廉木履",
+      "PoetId": "3daea607d3bc494ab8f0bac5e655c37e",
+      "PoetName": "选人",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "选人"
+      ],
+      "Contents": [
+        "刺鼻何曾嚏，",
+        "蹋面不知嗔。",
+        "高生两个齿，",
+        "自谓得胜人。"
+      ]
+    }
+  ]
+}

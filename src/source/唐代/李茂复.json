@@ -1,0 +1,44 @@
+{
+  "_id": "bf78aa8f93e9436a9b0bf9a7e301af5b",
+  "Name": "李茂复",
+  "Description": "李茂复，泗州刺史。诗二首。",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "自叹",
+      "PoetId": "bf78aa8f93e9436a9b0bf9a7e301af5b",
+      "PoetName": "李茂复",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "李茂复"
+      ],
+      "Contents": [
+        "落日西山近一竿，",
+        "世间恩爱极难拚。",
+        "近来不作颠狂事，",
+        "免被冤家恶眼看。"
+      ]
+    },
+    {
+      "_id": null,
+      "Name": "马上有见",
+      "PoetId": "bf78aa8f93e9436a9b0bf9a7e301af5b",
+      "PoetName": "李茂复",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "李茂复"
+      ],
+      "Contents": [
+        "行尽疏林见小桥，",
+        "绿杨深处有红蕉。",
+        "无端眼界无分别，",
+        "安置心头不肯销。"
+      ]
+    }
+  ]
+}

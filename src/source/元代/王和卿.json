@@ -1,0 +1,28 @@
+{
+  "_id": "9cad4ea89f67462db37b1c7a13cc195b",
+  "Name": "王和卿",
+  "Description": "",
+  "Dynasty": "元代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "仙吕",
+      "PoetId": "9cad4ea89f67462db37b1c7a13cc195b",
+      "PoetName": "王和卿",
+      "Form": "未知",
+      "Tags": [
+        "元代",
+        "王和卿"
+      ],
+      "Contents": [
+        "书来和泪怕开缄，",
+        "又不归来空再三。",
+        "这样病儿谁惯耽？",
+        "越恁瘦岩岩。",
+        "一半儿增添一半儿减。"
+      ]
+    }
+  ]
+}

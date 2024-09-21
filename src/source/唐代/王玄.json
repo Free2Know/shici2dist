@@ -1,0 +1,27 @@
+{
+  "_id": "1ae01a8d9ffa4bc286effb5807608713",
+  "Name": "王玄",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "听琴",
+      "PoetId": "1ae01a8d9ffa4bc286effb5807608713",
+      "PoetName": "王玄",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "王玄"
+      ],
+      "Contents": [
+        "拂尘开按匣，",
+        "何事独颦眉。",
+        "古调俗不乐，",
+        "正声君自知。"
+      ]
+    }
+  ]
+}

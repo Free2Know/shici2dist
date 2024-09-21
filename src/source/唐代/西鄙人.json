@@ -1,0 +1,27 @@
+{
+  "_id": "6099f589f92d4a78b472efe5d85a13ed",
+  "Name": "西鄙人",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "哥舒歌",
+      "PoetId": "6099f589f92d4a78b472efe5d85a13ed",
+      "PoetName": "西鄙人",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "西鄙人"
+      ],
+      "Contents": [
+        "北斗七星高，",
+        "哥舒夜带刀。",
+        "至今窥牧马，",
+        "不敢过临洮。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "2bda76dfff504e58881ad8da0675676b",
+  "Name": "雷震",
+  "Description": "",
+  "Dynasty": "宋代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "村晚",
+      "PoetId": "2bda76dfff504e58881ad8da0675676b",
+      "PoetName": "雷震",
+      "Form": "七绝",
+      "Tags": [
+        "宋代",
+        "雷震"
+      ],
+      "Contents": [
+        "草满池塘水满陂，",
+        "山衔落日浸寒漪。",
+        "牧童归去横牛背，",
+        "短笛无腔信口吹。"
+      ]
+    }
+  ]
+}

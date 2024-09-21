@@ -1,0 +1,27 @@
+{
+  "_id": "ed3b2cd8e8814b6da1d62f02bfa6c8e2",
+  "Name": "谁氏女",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "题沙鹿门",
+      "PoetId": "ed3b2cd8e8814b6da1d62f02bfa6c8e2",
+      "PoetName": "谁氏女",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "谁氏女"
+      ],
+      "Contents": [
+        "昔逐良人去上京，",
+        "良人身殁妾东征。",
+        "同来不得同归去，",
+        "永负朝云暮雨情。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "a83e906d03c74a05aa2e182027adf45d",
+  "Name": "骊山游人",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "题故翠微宫",
+      "PoetId": "a83e906d03c74a05aa2e182027adf45d",
+      "PoetName": "骊山游人",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "骊山游人"
+      ],
+      "Contents": [
+        "翠微寺本翠微宫，",
+        "楼阁亭台几十重。",
+        "天子不来僧又去，",
+        "樵夫时倒一株松。"
+      ]
+    }
+  ]
+}

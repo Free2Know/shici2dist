@@ -1,0 +1,27 @@
+{
+  "_id": "53f7c6fe32cc4e42b4938c8d1eb15d60",
+  "Name": "尹璞",
+  "Description": "尹璞，会昌后人。诗一首。",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "题杨收相公宅",
+      "PoetId": "53f7c6fe32cc4e42b4938c8d1eb15d60",
+      "PoetName": "尹璞",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "尹璞"
+      ],
+      "Contents": [
+        "祸福从来路不遥，",
+        "偶然平地上烟霄。",
+        "烟霄未稳还平地，",
+        "门对孤峰占寂寥。"
+      ]
+    }
+  ]
+}

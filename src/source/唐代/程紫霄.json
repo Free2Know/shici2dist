@@ -1,0 +1,27 @@
+{
+  "_id": "2711be72ed104ca784ede4b7e374ddd0",
+  "Name": "程紫霄",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "示守庚申众",
+      "PoetId": "2711be72ed104ca784ede4b7e374ddd0",
+      "PoetName": "程紫霄",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "程紫霄"
+      ],
+      "Contents": [
+        "不守庚申亦不疑，",
+        "此心常与道相依。",
+        "玉皇已自知行止，",
+        "任汝三彭说是非。"
+      ]
+    }
+  ]
+}

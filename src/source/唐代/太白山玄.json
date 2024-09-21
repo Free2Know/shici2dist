@@ -1,0 +1,27 @@
+{
+  "_id": "ec47754a70574c19baaed0f7af70c844",
+  "Name": "太白山玄",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "画地吟",
+      "PoetId": "ec47754a70574c19baaed0f7af70c844",
+      "PoetName": "太白山玄",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "太白山玄"
+      ],
+      "Contents": [
+        "学得丹青数万年，",
+        "人间几度变桑田。",
+        "桑田虽变丹青在，",
+        "谁向丹青合得仙。"
+      ]
+    }
+  ]
+}

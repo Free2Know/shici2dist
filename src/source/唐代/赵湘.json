@@ -1,0 +1,31 @@
+{
+  "_id": "57ff8c8d84db4352bebca3dcad323e35",
+  "Name": "赵湘",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "题天台石桥",
+      "PoetId": "57ff8c8d84db4352bebca3dcad323e35",
+      "PoetName": "赵湘",
+      "Form": "五律",
+      "Tags": [
+        "唐代",
+        "赵湘"
+      ],
+      "Contents": [
+        "白石峰犹在，",
+        "横桥一径微。",
+        "多年无客过，",
+        "落日有云归。",
+        "水净苔生发，",
+        "山寒树著衣。",
+        "如何方广寺，",
+        "千古去人稀。"
+      ]
+    }
+  ]
+}

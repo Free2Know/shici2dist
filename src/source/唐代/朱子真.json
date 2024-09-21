@@ -1,0 +1,27 @@
+{
+  "_id": "ef821bc17b534a2db226db8df7345014",
+  "Name": "朱子真",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "对赵颖歌",
+      "PoetId": "ef821bc17b534a2db226db8df7345014",
+      "PoetName": "朱子真",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "朱子真"
+      ],
+      "Contents": [
+        "人间几日变桑田，",
+        "谁识神仙洞里天。",
+        "短促虽知有殊异，",
+        "且须欢醉在生前。"
+      ]
+    }
+  ]
+}

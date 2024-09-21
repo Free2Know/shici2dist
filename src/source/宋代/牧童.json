@@ -1,0 +1,27 @@
+{
+  "_id": "6c9211d344e145fc969afe153cd31c0e",
+  "Name": "牧童",
+  "Description": "",
+  "Dynasty": "宋代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "答钟弱翁",
+      "PoetId": "6c9211d344e145fc969afe153cd31c0e",
+      "PoetName": "牧童",
+      "Form": "七绝",
+      "Tags": [
+        "宋代",
+        "牧童"
+      ],
+      "Contents": [
+        "草铺横野六七里，",
+        "笛弄晚风三四声。",
+        "归来饱饭黄昏后，",
+        "不脱蓑衣卧月明。"
+      ]
+    }
+  ]
+}

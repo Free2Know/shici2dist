@@ -1,0 +1,27 @@
+{
+  "_id": "cce13b910b34428a834daa612e42d189",
+  "Name": "神秀",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "偈一",
+      "PoetId": "cce13b910b34428a834daa612e42d189",
+      "PoetName": "神秀",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "神秀"
+      ],
+      "Contents": [
+        "身是菩提树，",
+        "心如明镜台；",
+        "时时勤拂拭，",
+        "莫使有尘埃。"
+      ]
+    }
+  ]
+}

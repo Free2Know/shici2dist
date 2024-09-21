@@ -1,0 +1,27 @@
+{
+  "_id": "5021a5e5732a4e8e943f7b7167deaae5",
+  "Name": "吴公",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "绝句",
+      "PoetId": "5021a5e5732a4e8e943f7b7167deaae5",
+      "PoetName": "吴公",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "吴公"
+      ],
+      "Contents": [
+        "去国投兹土，",
+        "编茅隐旧踪。",
+        "年年秋水上，",
+        "独对数株松。"
+      ]
+    }
+  ]
+}

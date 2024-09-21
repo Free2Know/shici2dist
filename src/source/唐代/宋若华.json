@@ -1,0 +1,27 @@
+{
+  "_id": "02c1cb5caca04813a7f816d63d584def",
+  "Name": "宋若华",
+  "Description": "女學士宋氏若華 ",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "嘲陆畅",
+      "PoetId": "02c1cb5caca04813a7f816d63d584def",
+      "PoetName": "宋若华",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "宋若华"
+      ],
+      "Contents": [
+        "十二层楼倚翠空，",
+        "凤鸾相对立梧桐。",
+        "双成走报监门卫，",
+        "莫使吴歈入汉宫。"
+      ]
+    }
+  ]
+}

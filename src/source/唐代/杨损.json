@@ -1,0 +1,27 @@
+{
+  "_id": "07823b2bc5df4a3caeb5037e11ca5e17",
+  "Name": "杨损",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "临刑赋",
+      "PoetId": "07823b2bc5df4a3caeb5037e11ca5e17",
+      "PoetName": "杨损",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "杨损"
+      ],
+      "Contents": [
+        "圣主何曾识仲都，",
+        "可嗟社稷在须臾。",
+        "市东便是神仙窟，",
+        "何必乘舟泛五湖。"
+      ]
+    }
+  ]
+}

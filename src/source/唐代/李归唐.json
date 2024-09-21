@@ -1,0 +1,27 @@
+{
+  "_id": "d4d2e8d43e784835a8e2ec1db8dceb73",
+  "Name": "李归唐",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "失鹭鹚",
+      "PoetId": "d4d2e8d43e784835a8e2ec1db8dceb73",
+      "PoetName": "李归唐",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "李归唐"
+      ],
+      "Contents": [
+        "惜养来来岁月深，",
+        "笼开不见意沈吟。",
+        "也知只在秋江上，",
+        "明月芦花何处寻。"
+      ]
+    }
+  ]
+}

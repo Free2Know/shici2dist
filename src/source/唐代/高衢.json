@@ -1,0 +1,27 @@
+{
+  "_id": "f1069c2627a648ea8fd767a407b6edd7",
+  "Name": "高衢",
+  "Description": "唐末人。诗一首。",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "和三乡诗",
+      "PoetId": "f1069c2627a648ea8fd767a407b6edd7",
+      "PoetName": "高衢",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "高衢"
+      ],
+      "Contents": [
+        "南北千山与万山，",
+        "轩车谁不思乡关。",
+        "独留芳翰悲前迹，",
+        "陌上恐伤桃李颜。"
+      ]
+    }
+  ]
+}

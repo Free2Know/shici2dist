@@ -1,0 +1,28 @@
+{
+  "_id": "234a6c54e493469a98dfa1dcff7e79ba",
+  "Name": "文鉴",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "题马迹山",
+      "PoetId": "234a6c54e493469a98dfa1dcff7e79ba",
+      "PoetName": "文鉴",
+      "Form": "未知",
+      "Tags": [
+        "唐代",
+        "文鉴"
+      ],
+      "Contents": [
+        "瀛洲西望沃洲山，",
+        "山在平湖缥缈间。",
+        "常说使君千里马，",
+        "至今龙迹尚堪攀。",
+        "."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "ed7ad97f7c5642a08a7c3e92f35a9e28",
+  "Name": "席佩兰",
+  "Description": "",
+  "Dynasty": "清代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "寄衣曲",
+      "PoetId": "ed7ad97f7c5642a08a7c3e92f35a9e28",
+      "PoetName": "席佩兰",
+      "Form": "七绝",
+      "Tags": [
+        "清代",
+        "席佩兰"
+      ],
+      "Contents": [
+        "欲制寒衣下剪难，",
+        "几回冰泪洒霜纨。",
+        "去时宽窄难凭准，",
+        "梦里寻君作样看。"
+      ]
+    }
+  ]
+}

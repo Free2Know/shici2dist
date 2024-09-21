@@ -1,0 +1,28 @@
+{
+  "_id": "1d0bb5d235ce48b9a600ab2bdb6a63eb",
+  "Name": "徐积",
+  "Description": "",
+  "Dynasty": "宋代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "渔父乐·渔歌子",
+      "PoetId": "1d0bb5d235ce48b9a600ab2bdb6a63eb",
+      "PoetName": "徐积",
+      "Form": "七绝",
+      "Tags": [
+        "宋代",
+        "徐积"
+      ],
+      "Contents": [
+        "饱则高歌醉即眠。",
+        "只知头白不知年。",
+        "江绕屋，",
+        "水随船。",
+        "买得风光不著钱。"
+      ]
+    }
+  ]
+}

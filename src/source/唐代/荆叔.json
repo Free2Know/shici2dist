@@ -1,0 +1,27 @@
+{
+  "_id": "bd9ef11c62e44f0d9d865a8ca60536fd",
+  "Name": "荆叔",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "题慈恩塔",
+      "PoetId": "bd9ef11c62e44f0d9d865a8ca60536fd",
+      "PoetName": "荆叔",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "荆叔"
+      ],
+      "Contents": [
+        "汉国山河在，",
+        "秦陵草树深。",
+        "暮云千里色，",
+        "无处不伤心。"
+      ]
+    }
+  ]
+}

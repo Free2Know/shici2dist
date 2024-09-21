@@ -1,0 +1,27 @@
+{
+  "_id": "579d441241ab44bcb4181fe9db1dc138",
+  "Name": "薛琼",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "赋荆门",
+      "PoetId": "579d441241ab44bcb4181fe9db1dc138",
+      "PoetName": "薛琼",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "薛琼"
+      ],
+      "Contents": [
+        "黄鸟翻红树，",
+        "青牛卧绿苔。",
+        "渚宫歌舞地，",
+        "轻雾锁楼台。"
+      ]
+    }
+  ]
+}

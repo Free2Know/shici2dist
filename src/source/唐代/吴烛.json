@@ -1,0 +1,27 @@
+{
+  "_id": "e7c8f7cae4c64761b1c7d80df30c49d3",
+  "Name": "吴烛",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "铜雀妓",
+      "PoetId": "e7c8f7cae4c64761b1c7d80df30c49d3",
+      "PoetName": "吴烛",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "吴烛"
+      ],
+      "Contents": [
+        "秋色西陵满绿芜，",
+        "繁弦急管强欢娱。",
+        "长舒罗袖不成舞，",
+        "却向风前承泪珠。"
+      ]
+    }
+  ]
+}

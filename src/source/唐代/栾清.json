@@ -1,0 +1,27 @@
+{
+  "_id": "6fd9cc2e2ab14f2d99b2898a80565d85",
+  "Name": "栾清",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "遇莲叶二客诗",
+      "PoetId": "6fd9cc2e2ab14f2d99b2898a80565d85",
+      "PoetName": "栾清",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "栾清"
+      ],
+      "Contents": [
+        "得饮摅公酒，",
+        "复登摅公舟。",
+        "便得神体清，",
+        "超遥旷无忧。"
+      ]
+    }
+  ]
+}

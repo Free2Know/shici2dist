@@ -1,0 +1,27 @@
+{
+  "_id": "4e9965a6cc484a539a744bc82a41f77c",
+  "Name": "苏检妻",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "与夫同咏诗",
+      "PoetId": "4e9965a6cc484a539a744bc82a41f77c",
+      "PoetName": "苏检妻",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "苏检妻"
+      ],
+      "Contents": [
+        "楚水平如镜，",
+        "周回白鸟飞。",
+        "金陵几多地，",
+        "一去不知归。"
+      ]
+    }
+  ]
+}

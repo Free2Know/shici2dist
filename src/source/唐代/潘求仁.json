@@ -1,0 +1,27 @@
+{
+  "_id": "ddb3b47804a24871ad32fdd9323088f8",
+  "Name": "潘求仁",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "咏烛寄人",
+      "PoetId": "ddb3b47804a24871ad32fdd9323088f8",
+      "PoetName": "潘求仁",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "潘求仁"
+      ],
+      "Contents": [
+        "烛与人相似，",
+        "通宵遽白煎。",
+        "不应须下泪，",
+        "只是为人然。"
+      ]
+    }
+  ]
+}

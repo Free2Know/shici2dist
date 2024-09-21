@@ -1,0 +1,27 @@
+{
+  "_id": "7a483c6c727a4ae2b14cff70726daf7c",
+  "Name": "郭麟",
+  "Description": "",
+  "Dynasty": "清代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "新晴即事",
+      "PoetId": "7a483c6c727a4ae2b14cff70726daf7c",
+      "PoetName": "郭麟",
+      "Form": "七绝",
+      "Tags": [
+        "清代",
+        "郭麟"
+      ],
+      "Contents": [
+        "游罢回船泊钓矶，",
+        "濛濛晴雪扑人衣。",
+        "春阴亦未全无用，",
+        "留住杨花一日飞。"
+      ]
+    }
+  ]
+}

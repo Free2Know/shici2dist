@@ -1,0 +1,27 @@
+{
+  "_id": "649869bd02ab4801bdf4f3c6637e3ec9",
+  "Name": "齐景云",
+  "Description": "",
+  "Dynasty": "明代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "赠别傅生",
+      "PoetId": "649869bd02ab4801bdf4f3c6637e3ec9",
+      "PoetName": "齐景云",
+      "Form": "七绝",
+      "Tags": [
+        "明代",
+        "齐景云"
+      ],
+      "Contents": [
+        "一呷春醪万里情，",
+        "断肠芳草断肠莺。",
+        "愿将双泪啼为雨，",
+        "明日留君不出城。"
+      ]
+    }
+  ]
+}

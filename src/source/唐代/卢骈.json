@@ -1,0 +1,27 @@
+{
+  "_id": "8e0ec37a6b58444da9aa93d6bd38448e",
+  "Name": "卢骈",
+  "Description": "卢骈，咸通进士，官员外。诗一首。",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "题青龙精舍",
+      "PoetId": "8e0ec37a6b58444da9aa93d6bd38448e",
+      "PoetName": "卢骈",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "卢骈"
+      ],
+      "Contents": [
+        "寿夭虽云命，",
+        "荣枯亦大偏。",
+        "不知雷氏剑，",
+        "何处更冲天。"
+      ]
+    }
+  ]
+}

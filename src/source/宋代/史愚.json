@@ -1,0 +1,31 @@
+{
+  "_id": "fc8f04cb96ae4e0783d3c36fcf9dce6c",
+  "Name": "史愚",
+  "Description": "",
+  "Dynasty": "宋代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "谒金门",
+      "PoetId": "fc8f04cb96ae4e0783d3c36fcf9dce6c",
+      "PoetName": "史愚",
+      "Form": "词",
+      "Tags": [
+        "宋代",
+        "史愚"
+      ],
+      "Contents": [
+        "深院宇。",
+        "寂寂不禁风雨。",
+        "苔迳流钱青莫数。",
+        "银泥蜗篆古。",
+        "满院多应无主。",
+        "却被痴儿拈取。",
+        "穿向柳丝喧笑语。",
+        "买将春色去。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "e464b304f3304dadb193b497fe4ba1f1",
+  "Name": "张隐",
+  "Description": "龙纪初伶人。诗一首。",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "万寿寺歌词",
+      "PoetId": "e464b304f3304dadb193b497fe4ba1f1",
+      "PoetName": "张隐",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "张隐"
+      ],
+      "Contents": [
+        "位乖燮理致伤残,四面墙匡不忍看.正是花时堪下泪,相公何必更追欢."
+      ]
+    }
+  ]
+}

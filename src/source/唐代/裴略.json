@@ -1,0 +1,27 @@
+{
+  "_id": "3b620bb36b584ee09c78d19a35e5f857",
+  "Name": "裴略",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "又嘲屏墙",
+      "PoetId": "3b620bb36b584ee09c78d19a35e5f857",
+      "PoetName": "裴略",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "裴略"
+      ],
+      "Contents": [
+        "高下八九尺，",
+        "东西六七步。",
+        "突兀当厅坐，",
+        "几许遮贤路。"
+      ]
+    }
+  ]
+}

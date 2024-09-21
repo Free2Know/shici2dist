@@ -1,0 +1,27 @@
+{
+  "_id": "7d51bead31e44fda9a2e0a9b1d07a4bf",
+  "Name": "辛学士",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "答王无功入长安咏秋蓬见示",
+      "PoetId": "7d51bead31e44fda9a2e0a9b1d07a4bf",
+      "PoetName": "辛学士",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "辛学士"
+      ],
+      "Contents": [
+        "托根虽异所，",
+        "飘叶早相依。",
+        "因风若有便，",
+        "更共入云飞。"
+      ]
+    }
+  ]
+}

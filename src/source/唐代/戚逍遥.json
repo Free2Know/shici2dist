@@ -1,0 +1,27 @@
+{
+  "_id": "1f499c9ea0e9444d9bf0b7e54ab7c0ca",
+  "Name": "戚逍遥",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "歌",
+      "PoetId": "1f499c9ea0e9444d9bf0b7e54ab7c0ca",
+      "PoetName": "戚逍遥",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "戚逍遥"
+      ],
+      "Contents": [
+        "笑看沧海欲成尘，",
+        "王母花前别众真。",
+        "千岁却归天上去，",
+        "一心珍重世间人。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "c39501c575bc4a71b89c5af223b94229",
+  "Name": "河湄鬼",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "愧谢诗",
+      "PoetId": "c39501c575bc4a71b89c5af223b94229",
+      "PoetName": "河湄鬼",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "河湄鬼"
+      ],
+      "Contents": [
+        "我本邯郸士，",
+        "祇役死河湄。",
+        "不得家人哭，",
+        "劳君行路悲。"
+      ]
+    }
+  ]
+}

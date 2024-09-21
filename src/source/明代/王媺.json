@@ -1,0 +1,27 @@
+{
+  "_id": "d6d9d3045f9346a289b3df7e975d2d81",
+  "Name": "王媺",
+  "Description": "",
+  "Dynasty": "明代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "探梅",
+      "PoetId": "d6d9d3045f9346a289b3df7e975d2d81",
+      "PoetName": "王媺",
+      "Form": "五绝",
+      "Tags": [
+        "明代",
+        "王媺"
+      ],
+      "Contents": [
+        "故人辞我去，",
+        "期我梅花时。",
+        "昨夜偶相念，",
+        "起看庭树枝。"
+      ]
+    }
+  ]
+}

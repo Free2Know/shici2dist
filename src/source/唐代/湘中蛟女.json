@@ -1,0 +1,27 @@
+{
+  "_id": "8481bd5a40224fdd8653a2f9bead6c84",
+  "Name": "湘中蛟女",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "答郑生歌",
+      "PoetId": "8481bd5a40224fdd8653a2f9bead6c84",
+      "PoetName": "湘中蛟女",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "湘中蛟女"
+      ],
+      "Contents": [
+        "溯青山兮江之隅，",
+        "拖湘波兮袅绿裾。",
+        "荷拳拳兮情未舒，",
+        "匪同归兮将焉如。"
+      ]
+    }
+  ]
+}

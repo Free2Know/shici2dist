@@ -1,0 +1,27 @@
+{
+  "_id": "18b5497fb0ad4c728ced68222dea3c94",
+  "Name": "黄陵美人",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "寄紫盖阳居士",
+      "PoetId": "18b5497fb0ad4c728ced68222dea3c94",
+      "PoetName": "黄陵美人",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "黄陵美人"
+      ],
+      "Contents": [
+        "落叶栖鸦掩庙扉，",
+        "菟丝金缕旧罗衣。",
+        "渡头明月好携手，",
+        "独自待郎郎不归。"
+      ]
+    }
+  ]
+}

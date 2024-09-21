@@ -1,0 +1,27 @@
+{
+  "_id": "a7bff98d0e1c4df79d125a810be4aca7",
+  "Name": "孔颙",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "上浙东孟尚书",
+      "PoetId": "a7bff98d0e1c4df79d125a810be4aca7",
+      "PoetName": "孔颙",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "孔颙"
+      ],
+      "Contents": [
+        "有个将军不得名，",
+        "唯教健卒喝书生。",
+        "尚书近日清如镜，",
+        "天子官街不许行。"
+      ]
+    }
+  ]
+}

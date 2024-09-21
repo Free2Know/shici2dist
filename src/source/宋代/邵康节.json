@@ -1,0 +1,27 @@
+{
+  "_id": "9a273bc610134de0a06590d835dd4fcd",
+  "Name": "邵康节",
+  "Description": "",
+  "Dynasty": "宋代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "山村咏怀",
+      "PoetId": "9a273bc610134de0a06590d835dd4fcd",
+      "PoetName": "邵康节",
+      "Form": "五绝",
+      "Tags": [
+        "宋代",
+        "邵康节"
+      ],
+      "Contents": [
+        "一去二三里，",
+        "烟村四五家。",
+        "亭台六七座，",
+        "八九十枝花。"
+      ]
+    }
+  ]
+}

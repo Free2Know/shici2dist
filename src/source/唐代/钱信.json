@@ -1,0 +1,27 @@
+{
+  "_id": "673cac15c5e3448183992da4bbb017e0",
+  "Name": "钱信",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "平望赠蚊",
+      "PoetId": "673cac15c5e3448183992da4bbb017e0",
+      "PoetName": "钱信",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "钱信"
+      ],
+      "Contents": [
+        "安得神仙术，",
+        "试为施康济。",
+        "使此平望村，",
+        "如吾江子汇。"
+      ]
+    }
+  ]
+}

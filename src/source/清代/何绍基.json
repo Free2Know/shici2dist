@@ -1,0 +1,27 @@
+{
+  "_id": "beed19f4ed6e424ba5028c59d2dbadd0",
+  "Name": "何绍基",
+  "Description": "",
+  "Dynasty": "清代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "沪上杂书",
+      "PoetId": "beed19f4ed6e424ba5028c59d2dbadd0",
+      "PoetName": "何绍基",
+      "Form": "七绝",
+      "Tags": [
+        "清代",
+        "何绍基"
+      ],
+      "Contents": [
+        "新闸才开老闸过，",
+        "楼台金碧照江波。",
+        "愁风闷雨人无寐，",
+        "海国平分鬼气多。"
+      ]
+    }
+  ]
+}

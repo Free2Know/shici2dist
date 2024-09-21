@@ -1,0 +1,27 @@
+{
+  "_id": "baa242a0c3894495a85031b7db1ae51a",
+  "Name": "卢献卿",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "梦中诗",
+      "PoetId": "baa242a0c3894495a85031b7db1ae51a",
+      "PoetName": "卢献卿",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "卢献卿"
+      ],
+      "Contents": [
+        "卜筑郊原古，",
+        "青山无四邻。",
+        "扶疏绕屋树，",
+        "寂寞独归人。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "a2b9daf92cbb45029608fbe80e8dcbb3",
+  "Name": "衡州舟子",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "吟",
+      "PoetId": "a2b9daf92cbb45029608fbe80e8dcbb3",
+      "PoetName": "衡州舟子",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "衡州舟子"
+      ],
+      "Contents": [
+        "野鹊滩西一棹孤，",
+        "月光遥接洞庭湖。",
+        "堪嗟回雁峰前过，",
+        "望断家山一字无。"
+      ]
+    }
+  ]
+}

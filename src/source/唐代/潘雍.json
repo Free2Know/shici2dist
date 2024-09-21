@@ -1,0 +1,27 @@
+{
+  "_id": "6ac5d886fd0f4497b7445e238afd7991",
+  "Name": "潘雍",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "赠葛氏小娘子",
+      "PoetId": "6ac5d886fd0f4497b7445e238afd7991",
+      "PoetName": "潘雍",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "潘雍"
+      ],
+      "Contents": [
+        "曾闻仙子住天台，",
+        "欲结灵姻愧短才。",
+        "若许随君洞中住，",
+        "不同刘阮却归来。"
+      ]
+    }
+  ]
+}

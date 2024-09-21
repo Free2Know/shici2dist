@@ -1,0 +1,27 @@
+{
+  "_id": "8b0593ca43fe488ab30679bcb7bae34b",
+  "Name": "颜令宾",
+  "Description": "颜令宾，南曲妓也。诗一首。",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "临终召客",
+      "PoetId": "8b0593ca43fe488ab30679bcb7bae34b",
+      "PoetName": "颜令宾",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "颜令宾"
+      ],
+      "Contents": [
+        "气余三五喘，",
+        "花剩两三枝。",
+        "话别一尊酒，",
+        "相邀无后期。"
+      ]
+    }
+  ]
+}

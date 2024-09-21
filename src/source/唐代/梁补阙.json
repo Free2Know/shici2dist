@@ -1,0 +1,27 @@
+{
+  "_id": "f5e95c3f5b7347d4ba467fd54ef6cd98",
+  "Name": "梁补阙",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "赠米都知",
+      "PoetId": "f5e95c3f5b7347d4ba467fd54ef6cd98",
+      "PoetName": "梁补阙",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "梁补阙"
+      ],
+      "Contents": [
+        "供奉三朝四十年，",
+        "圣时流落发衰残。",
+        "贪将乐府歌明代，",
+        "不把清吟换好官。"
+      ]
+    }
+  ]
+}

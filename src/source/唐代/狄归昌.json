@@ -1,0 +1,27 @@
+{
+  "_id": "22fca5deff414fdba9205a5aee249fb4",
+  "Name": "狄归昌",
+  "Description": "狄归昌，官侍郎，光化中，历尚书左丞。诗一首。",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "题马嵬驿",
+      "PoetId": "22fca5deff414fdba9205a5aee249fb4",
+      "PoetName": "狄归昌",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "狄归昌"
+      ],
+      "Contents": [
+        "马嵬烟柳正依依，",
+        "重见銮舆幸蜀归。",
+        "泉下阿蛮应有语，",
+        "这回休更怨杨妃。"
+      ]
+    }
+  ]
+}

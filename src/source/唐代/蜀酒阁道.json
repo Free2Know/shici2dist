@@ -1,0 +1,27 @@
+{
+  "_id": "3efde69aaba14a5897339beb425e4bc8",
+  "Name": "蜀酒阁道",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "歌",
+      "PoetId": "3efde69aaba14a5897339beb425e4bc8",
+      "PoetName": "蜀酒阁道",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "蜀酒阁道"
+      ],
+      "Contents": [
+        "尾闾不禁沧溟竭，",
+        "九转神丹都谩说。",
+        "惟有班龙顶上珠，",
+        "能补玉堂关下穴。"
+      ]
+    }
+  ]
+}

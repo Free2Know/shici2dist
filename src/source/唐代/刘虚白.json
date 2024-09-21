@@ -1,0 +1,27 @@
+{
+  "_id": "6b4adbb82ac940c5a3bf67fbd4d54e7f",
+  "Name": "刘虚白",
+  "Description": "刘虚白，竟陵人，擢元和进士第。诗一首。",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "献主文",
+      "PoetId": "6b4adbb82ac940c5a3bf67fbd4d54e7f",
+      "PoetName": "刘虚白",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "刘虚白"
+      ],
+      "Contents": [
+        "二十年前此夜中，",
+        "一般灯烛一般风。",
+        "不知岁月能多少，",
+        "犹著麻衣待至公。"
+      ]
+    }
+  ]
+}

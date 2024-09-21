@@ -1,0 +1,27 @@
+{
+  "_id": "3e5a3b0f462c4d338bcd184a113e8663",
+  "Name": "高鼎",
+  "Description": "",
+  "Dynasty": "清代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "村居",
+      "PoetId": "3e5a3b0f462c4d338bcd184a113e8663",
+      "PoetName": "高鼎",
+      "Form": "七绝",
+      "Tags": [
+        "清代",
+        "高鼎"
+      ],
+      "Contents": [
+        "草长莺飞二月天，",
+        "拂堤杨柳醉春烟。",
+        "儿童散学归来早，",
+        "忙趁东风放纸鸢。"
+      ]
+    }
+  ]
+}

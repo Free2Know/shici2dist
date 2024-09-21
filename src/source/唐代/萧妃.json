@@ -1,0 +1,29 @@
+{
+  "_id": "b75cdfd60f9a4acc988dc7b8547455be",
+  "Name": "萧妃",
+  "Description": "蕭妃 ",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "夜梦",
+      "PoetId": "b75cdfd60f9a4acc988dc7b8547455be",
+      "PoetName": "萧妃",
+      "Form": "未知",
+      "Tags": [
+        "唐代",
+        "萧妃"
+      ],
+      "Contents": [
+        "昨日梦君归，",
+        "贱妾下鸣机。",
+        "极知意气薄，",
+        "不著去时衣。",
+        "故言如梦里，",
+        "赖得雁书飞。"
+      ]
+    }
+  ]
+}

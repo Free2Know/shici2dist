@@ -1,0 +1,27 @@
+{
+  "_id": "9fc89cf06dfc4011a981b84e479a042d",
+  "Name": "秦尚运",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "题钟雅青纱枕",
+      "PoetId": "9fc89cf06dfc4011a981b84e479a042d",
+      "PoetName": "秦尚运",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "秦尚运"
+      ],
+      "Contents": [
+        "阴香装艳入青纱，",
+        "还与欹眠好事家。",
+        "梦里却成山色雨，",
+        "沈山不敢斗青华。"
+      ]
+    }
+  ]
+}

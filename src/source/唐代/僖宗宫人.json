@@ -1,0 +1,27 @@
+{
+  "_id": "2ce469d7da09490a9f41a4b4947ae1fe",
+  "Name": "僖宗宫人",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "金锁诗",
+      "PoetId": "2ce469d7da09490a9f41a4b4947ae1fe",
+      "PoetName": "僖宗宫人",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "僖宗宫人"
+      ],
+      "Contents": [
+        "玉烛制袍夜，",
+        "金刀呵手裁。",
+        "锁寄千里客，",
+        "锁心终不开。"
+      ]
+    }
+  ]
+}

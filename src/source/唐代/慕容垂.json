@@ -1,0 +1,27 @@
+{
+  "_id": "d7415c78f0ae41a4be82d6cdbf8eb4da",
+  "Name": "慕容垂",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "冢上答太宗",
+      "PoetId": "d7415c78f0ae41a4be82d6cdbf8eb4da",
+      "PoetName": "慕容垂",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "慕容垂"
+      ],
+      "Contents": [
+        "我昔胜君昔，",
+        "君今胜我今。",
+        "荣华各异代，",
+        "何用苦追寻。"
+      ]
+    }
+  ]
+}

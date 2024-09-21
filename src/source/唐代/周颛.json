@@ -1,0 +1,27 @@
+{
+  "_id": "5659ebfb8b4e487da9321f4600c5d38f",
+  "Name": "周颛",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "和座客",
+      "PoetId": "5659ebfb8b4e487da9321f4600c5d38f",
+      "PoetName": "周颛",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "周颛"
+      ],
+      "Contents": [
+        "十载文场敢惮劳，",
+        "宋都回鶂为风高。",
+        "今朝甘被花枝笑，",
+        "任道尊前爱缚猱。"
+      ]
+    }
+  ]
+}

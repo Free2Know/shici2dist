@@ -1,0 +1,27 @@
+{
+  "_id": "0ca919456ef242b99a393fdae6386b26",
+  "Name": "张陵",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "虏患",
+      "PoetId": "0ca919456ef242b99a393fdae6386b26",
+      "PoetName": "张陵",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "张陵"
+      ],
+      "Contents": [
+        "今日汉家探使回，",
+        "蚁叠胡兵来未歇。",
+        "春风渭水不敢流，",
+        "总作六军心上血。"
+      ]
+    }
+  ]
+}

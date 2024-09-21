@@ -1,0 +1,28 @@
+{
+  "_id": "0eabf142c01c4d28bb8446b3e89c61b6",
+  "Name": "陈知柔",
+  "Description": "",
+  "Dynasty": "宋代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "人月圆",
+      "PoetId": "0eabf142c01c4d28bb8446b3e89c61b6",
+      "PoetName": "陈知柔",
+      "Form": "词",
+      "Tags": [
+        "宋代",
+        "陈知柔"
+      ],
+      "Contents": [
+        "鬓缘心事随时改，",
+        "依旧在天涯。",
+        "多情惟有，",
+        "篱边黄菊，",
+        "到处能华。"
+      ]
+    }
+  ]
+}

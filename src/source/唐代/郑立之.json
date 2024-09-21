@@ -1,0 +1,27 @@
+{
+  "_id": "2d3d26acaf1c43a38ceb094a24caab2b",
+  "Name": "郑立之",
+  "Description": "郑立之，贞元、元和中人。诗一首。",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "哭林杰",
+      "PoetId": "2d3d26acaf1c43a38ceb094a24caab2b",
+      "PoetName": "郑立之",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "郑立之"
+      ],
+      "Contents": [
+        "才高未及贾生年，",
+        "何事孤魂逐逝川。",
+        "萤聚帐中人已去，",
+        "鹤离台上月空圆。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "c123c397bfdc445c814c06f342b5ff50",
+  "Name": "巴峡鬼",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "夜吟",
+      "PoetId": "c123c397bfdc445c814c06f342b5ff50",
+      "PoetName": "巴峡鬼",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "巴峡鬼"
+      ],
+      "Contents": [
+        "秋径填黄叶，",
+        "寒摧露草根。",
+        "猿声一叫断，",
+        "客泪数重痕。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "da63d636306e4ae28256cb3a3b88ffde",
+  "Name": "薛光耀",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "相和歌辞·子夜冬歌",
+      "PoetId": "da63d636306e4ae28256cb3a3b88ffde",
+      "PoetName": "薛光耀",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "薛光耀"
+      ],
+      "Contents": [
+        "朔风扣群木，",
+        "严霜凋百草。",
+        "借问月中人，",
+        "安得长不老。"
+      ]
+    }
+  ]
+}

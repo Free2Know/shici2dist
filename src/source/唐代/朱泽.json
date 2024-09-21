@@ -1,0 +1,27 @@
+{
+  "_id": "9fda12a301c94bf38d0b557b045fe29a",
+  "Name": "朱泽",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "嘲郭凝素",
+      "PoetId": "9fda12a301c94bf38d0b557b045fe29a",
+      "PoetName": "朱泽",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "朱泽"
+      ],
+      "Contents": [
+        "三春桃李本无言，",
+        "苦被残阳鸟雀喧。",
+        "借问东邻效西子，",
+        "何如郭素拟王轩。"
+      ]
+    }
+  ]
+}

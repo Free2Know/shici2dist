@@ -1,0 +1,27 @@
+{
+  "_id": "86d29b3355254c2d9aab838e3230aa8a",
+  "Name": "甄后",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "与萧旷冥会诗",
+      "PoetId": "86d29b3355254c2d9aab838e3230aa8a",
+      "PoetName": "甄后",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "甄后"
+      ],
+      "Contents": [
+        "玉箸凝腮忆魏宫，",
+        "朱弦一弄洗清风。",
+        "明晨追赏应愁寂，",
+        "沙渚烟销翠羽空。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "6aafc6d2fdd74c47bdac2b6263895666",
+  "Name": "李嵘",
+  "Description": "李嵘，咸通时人。诗一首。",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "献淮南师",
+      "PoetId": "6aafc6d2fdd74c47bdac2b6263895666",
+      "PoetName": "李嵘",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "李嵘"
+      ],
+      "Contents": [
+        "鸡树烟含瑞气凝，",
+        "凤池波待玉山澄。",
+        "国人久倚东关望，",
+        "拟筑沙堤到广陵。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "9787440ec3314815aef9bdead79d2225",
+  "Name": "李升",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "元白席上作",
+      "PoetId": "9787440ec3314815aef9bdead79d2225",
+      "PoetName": "李升",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "李升"
+      ],
+      "Contents": [
+        "生在儒家遇太平，",
+        "悬缨垂带布衣轻。",
+        "谁能世路趋名利，",
+        "臣事玉皇归上清。"
+      ]
+    }
+  ]
+}

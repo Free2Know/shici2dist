@@ -1,0 +1,27 @@
+{
+  "_id": "f0f5c6652a3840c7b461b6e28ddb397f",
+  "Name": "萧意",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "长门失宠",
+      "PoetId": "f0f5c6652a3840c7b461b6e28ddb397f",
+      "PoetName": "萧意",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "萧意"
+      ],
+      "Contents": [
+        "自从别銮殿，",
+        "长门几度春。",
+        "不知金屋里，",
+        "更贮若为人。"
+      ]
+    }
+  ]
+}

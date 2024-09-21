@@ -1,0 +1,27 @@
+{
+  "_id": "dcd5103d9ef04cb19afee543d2944b9f",
+  "Name": "隔窗鬼",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "题窗上诗",
+      "PoetId": "dcd5103d9ef04cb19afee543d2944b9f",
+      "PoetName": "隔窗鬼",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "隔窗鬼"
+      ],
+      "Contents": [
+        "何人窗下读书声，",
+        "南斗阑干北斗横。",
+        "千里思家归不得，",
+        "春风肠断石头城。"
+      ]
+    }
+  ]
+}

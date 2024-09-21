@@ -1,0 +1,27 @@
+{
+  "_id": "f5bbc0d8177b4ec7b483b4fd8452c304",
+  "Name": "织锦人",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "吟",
+      "PoetId": "f5bbc0d8177b4ec7b483b4fd8452c304",
+      "PoetName": "织锦人",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "织锦人"
+      ],
+      "Contents": [
+        "学织缭绫功未多，",
+        "乱拈机杼错抛梭。",
+        "莫教官锦行家见，",
+        "把此文章笑杀他。"
+      ]
+    }
+  ]
+}

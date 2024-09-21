@@ -1,0 +1,27 @@
+{
+  "_id": "b7839a66e4fc4e44af654bcdeca70e75",
+  "Name": "李叔霁",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "死后诗",
+      "PoetId": "b7839a66e4fc4e44af654bcdeca70e75",
+      "PoetName": "李叔霁",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "李叔霁"
+      ],
+      "Contents": [
+        "忽作无期别，",
+        "沈冥恨有余。",
+        "长安虽不远，",
+        "无信可传书。"
+      ]
+    }
+  ]
+}

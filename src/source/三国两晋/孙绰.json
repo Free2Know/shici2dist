@@ -1,0 +1,27 @@
+{
+  "_id": "0d52fcd6d2764fd3802a0b83b25cdd8e",
+  "Name": "孙绰",
+  "Description": "",
+  "Dynasty": "三国两晋",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "碧玉歌",
+      "PoetId": "0d52fcd6d2764fd3802a0b83b25cdd8e",
+      "PoetName": "孙绰",
+      "Form": "五绝",
+      "Tags": [
+        "三国两晋",
+        "孙绰"
+      ],
+      "Contents": [
+        "碧玉小家女，",
+        "不敢攀贵德。",
+        "感郎千金意，",
+        "惭无倾城色。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "dc002882d6ee4fafac7d9fdda3a54bba",
+  "Name": "赵执信",
+  "Description": "",
+  "Dynasty": "清代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "虎丘暮归小舟口号",
+      "PoetId": "dc002882d6ee4fafac7d9fdda3a54bba",
+      "PoetName": "赵执信",
+      "Form": "七绝",
+      "Tags": [
+        "清代",
+        "赵执信"
+      ],
+      "Contents": [
+        "稻花菱叶满流波，",
+        "秋色其如夕照何。",
+        "暝泛不知柔橹乱，",
+        "前川微月雁声多。"
+      ]
+    }
+  ]
+}

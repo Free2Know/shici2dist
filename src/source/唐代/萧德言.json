@@ -1,0 +1,27 @@
+{
+  "_id": "3d9baf1b299e4d32a3b3cddd9f2b1de5",
+  "Name": "萧德言",
+  "Description": "字文行，雍州长安人。贞观中著作郎，兼弘文馆学士。博涉经史，晚尤笃志于学。集三十卷，今存诗一首。",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "咏舞",
+      "PoetId": "3d9baf1b299e4d32a3b3cddd9f2b1de5",
+      "PoetName": "萧德言",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "萧德言"
+      ],
+      "Contents": [
+        "低身锵玉佩，",
+        "举袖拂罗衣。",
+        "对檐疑燕起，",
+        "映雪似花飞。"
+      ]
+    }
+  ]
+}

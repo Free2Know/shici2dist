@@ -1,0 +1,27 @@
+{
+  "_id": "d90ddc4b4bdc42cc94a531588f4fda15",
+  "Name": "吴彩鸾",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "歌",
+      "PoetId": "d90ddc4b4bdc42cc94a531588f4fda15",
+      "PoetName": "吴彩鸾",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "吴彩鸾"
+      ],
+      "Contents": [
+        "若能相伴陟仙坛，",
+        "应得文箫驾彩鸾。",
+        "自有绣襦并甲帐，",
+        "瑶台不怕雪霜寒。"
+      ]
+    }
+  ]
+}

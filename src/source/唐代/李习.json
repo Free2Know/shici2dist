@@ -1,0 +1,27 @@
+{
+  "_id": "543bf8ecda744932977242b06da0cd88",
+  "Name": "李习",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "凌云寺",
+      "PoetId": "543bf8ecda744932977242b06da0cd88",
+      "PoetName": "李习",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "李习"
+      ],
+      "Contents": [
+        "古寺临江间碧波，",
+        "石梯深入白云窠。",
+        "僧禅寂寂无人迹，",
+        "满地落花春又过。"
+      ]
+    }
+  ]
+}

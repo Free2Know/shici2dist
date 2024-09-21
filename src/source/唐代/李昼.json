@@ -1,0 +1,27 @@
+{
+  "_id": "a8a4ddbbc9f44d5aadf37a8a11f1c42d",
+  "Name": "李昼",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "戏酬张鲁封",
+      "PoetId": "a8a4ddbbc9f44d5aadf37a8a11f1c42d",
+      "PoetName": "李昼",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "李昼"
+      ],
+      "Contents": [
+        "秋浦亚卿颜叔子，",
+        "谯都中宪老桑门。",
+        "如今柳巷通车马，",
+        "唯恐他时立棘垣。"
+      ]
+    }
+  ]
+}

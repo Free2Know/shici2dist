@@ -1,0 +1,27 @@
+{
+  "_id": "a0cd1218cefc492cbfdf12ed22945cd4",
+  "Name": "宇文鼎",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "山下泉",
+      "PoetId": "a0cd1218cefc492cbfdf12ed22945cd4",
+      "PoetName": "宇文鼎",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "宇文鼎"
+      ],
+      "Contents": [
+        "可致清川广，",
+        "难量利物功。",
+        "涓流此山下，",
+        "谁识去无穷。"
+      ]
+    }
+  ]
+}

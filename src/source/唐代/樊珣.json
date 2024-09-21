@@ -1,0 +1,27 @@
+{
+  "_id": "73d26601f6af4c1bbef8b060def46f31",
+  "Name": "樊珣",
+  "Description": "樊珣，贞元时人。诗二首。",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "状江南·仲夏",
+      "PoetId": "73d26601f6af4c1bbef8b060def46f31",
+      "PoetName": "樊珣",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "樊珣"
+      ],
+      "Contents": [
+        "江南仲夏天，",
+        "时雨下如川。",
+        "卢橘垂金弹，",
+        "甘蕉吐白莲。"
+      ]
+    }
+  ]
+}

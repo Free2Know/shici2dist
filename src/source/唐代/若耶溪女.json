@@ -1,0 +1,27 @@
+{
+  "_id": "a3d46e3c5bcb4468af6a32d216e29ef6",
+  "Name": "若耶溪女",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "题三乡诗",
+      "PoetId": "a3d46e3c5bcb4468af6a32d216e29ef6",
+      "PoetName": "若耶溪女",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "若耶溪女"
+      ],
+      "Contents": [
+        "昔逐良人西入关，",
+        "良人身殁妾空还。",
+        "谢娘卫女不相待，",
+        "为雨为云归此山。"
+      ]
+    }
+  ]
+}

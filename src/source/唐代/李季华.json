@@ -1,0 +1,27 @@
+{
+  "_id": "6bbfa27b9eb841949b1c2d8240371cfd",
+  "Name": "李季华",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "题季子庙",
+      "PoetId": "6bbfa27b9eb841949b1c2d8240371cfd",
+      "PoetName": "李季华",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "李季华"
+      ],
+      "Contents": [
+        "季子让社稷，",
+        "又能听国风。",
+        "宁知千载后，",
+        "蘋藻冷祠宫。"
+      ]
+    }
+  ]
+}

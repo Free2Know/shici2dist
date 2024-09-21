@@ -1,0 +1,27 @@
+{
+  "_id": "daa3dd41febe4faab3b2f4405c0ce35a",
+  "Name": "封抱一",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "歇后",
+      "PoetId": "daa3dd41febe4faab3b2f4405c0ce35a",
+      "PoetName": "封抱一",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "封抱一"
+      ],
+      "Contents": [
+        "面作天地玄，",
+        "鼻有雁门紫。",
+        "既无左达承，",
+        "何劳罔谈彼。"
+      ]
+    }
+  ]
+}

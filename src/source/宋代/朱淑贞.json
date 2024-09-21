@@ -1,0 +1,44 @@
+{
+  "_id": "f72362804ba049aa9ab46dfbd8ece142",
+  "Name": "朱淑贞",
+  "Description": "",
+  "Dynasty": "宋代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "即景",
+      "PoetId": "f72362804ba049aa9ab46dfbd8ece142",
+      "PoetName": "朱淑贞",
+      "Form": "七绝",
+      "Tags": [
+        "宋代",
+        "朱淑贞"
+      ],
+      "Contents": [
+        "竹摇清影罩幽窗，",
+        "两两时禽噪夕阳。",
+        "谢却海棠飞尽絮，",
+        "困人天气日初长。"
+      ]
+    },
+    {
+      "_id": null,
+      "Name": "落花",
+      "PoetId": "f72362804ba049aa9ab46dfbd8ece142",
+      "PoetName": "朱淑贞",
+      "Form": "七绝",
+      "Tags": [
+        "宋代",
+        "朱淑贞"
+      ],
+      "Contents": [
+        "连理枝头花正开，",
+        "妒花风雨便相催。",
+        "愿教青帝常为主，",
+        "莫遣纷纷点翠苔。"
+      ]
+    }
+  ]
+}

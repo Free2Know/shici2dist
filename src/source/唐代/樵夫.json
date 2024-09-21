@@ -1,0 +1,27 @@
+{
+  "_id": "d72cf7c489f1448a91e7375eeb1de053",
+  "Name": "樵夫",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "贻白永年诗",
+      "PoetId": "d72cf7c489f1448a91e7375eeb1de053",
+      "PoetName": "樵夫",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "樵夫"
+      ],
+      "Contents": [
+        "清秋无所事，",
+        "乘露出遥天。",
+        "凭仗樵人语，",
+        "相期白永年。"
+      ]
+    }
+  ]
+}

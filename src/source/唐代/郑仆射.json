@@ -1,0 +1,27 @@
+{
+  "_id": "dbae6317c2c3440e99e876fc2fd10b1e",
+  "Name": "郑仆射",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "湘中怨讽",
+      "PoetId": "dbae6317c2c3440e99e876fc2fd10b1e",
+      "PoetName": "郑仆射",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "郑仆射"
+      ],
+      "Contents": [
+        "青鹢苦幽独，",
+        "隔江相对稀。",
+        "夜寒芦叶雨，",
+        "空作一声归。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "f676151ffaeb4dd49d90c3851f61dc12",
+  "Name": "吴德远",
+  "Description": "",
+  "Dynasty": "宋代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "失调名",
+      "PoetId": "f676151ffaeb4dd49d90c3851f61dc12",
+      "PoetName": "吴德远",
+      "Form": "五绝",
+      "Tags": [
+        "宋代",
+        "吴德远"
+      ],
+      "Contents": [
+        "过平康巷陌绮罗丛。",
+        "赢得佳人，",
+        "妙舞艳歌，",
+        "争劝金锺。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "c2cd2e1d004242fc8ebec73cb27b61a2",
+  "Name": "志南",
+  "Description": "",
+  "Dynasty": "宋代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "绝句",
+      "PoetId": "c2cd2e1d004242fc8ebec73cb27b61a2",
+      "PoetName": "志南",
+      "Form": "七绝",
+      "Tags": [
+        "宋代",
+        "志南"
+      ],
+      "Contents": [
+        "古木阴中系短篷，",
+        "杖藜扶我过桥东。",
+        "沾衣欲湿杏花雨，",
+        "吹面不寒杨柳风。"
+      ]
+    }
+  ]
+}

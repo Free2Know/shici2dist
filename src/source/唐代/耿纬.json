@@ -1,0 +1,27 @@
+{
+  "_id": "762c9ccb901d4135a613bea4a93602db",
+  "Name": "耿纬",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "杂曲歌辞·凉州词",
+      "PoetId": "762c9ccb901d4135a613bea4a93602db",
+      "PoetName": "耿纬",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "耿纬"
+      ],
+      "Contents": [
+        "国使翩翩随旆旌，",
+        "陇西岐路足荒城。",
+        "毡裘牧马胡雏小，",
+        "日暮蕃歌三两声。"
+      ]
+    }
+  ]
+}

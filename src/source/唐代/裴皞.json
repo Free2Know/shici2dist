@@ -1,0 +1,27 @@
+{
+  "_id": "bb7ffcbb27a64433a0c48b2dbef9b41e",
+  "Name": "裴皞",
+  "Description": "字司东，河东人。光华中进士第，历事梁、唐、晋，官至尚书左仆射。诗一首。",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "示门生马侍郎胤孙",
+      "PoetId": "bb7ffcbb27a64433a0c48b2dbef9b41e",
+      "PoetName": "裴皞",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "裴皞"
+      ],
+      "Contents": [
+        "宦途最重是文衡，",
+        "天与愚夫著盛名。",
+        "三主礼闱年八十，",
+        "门生门下见门生。"
+      ]
+    }
+  ]
+}

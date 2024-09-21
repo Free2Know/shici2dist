@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
-namespace shicitojson
+namespace shici2dist
 {
     /// <summary>
     /// 处理shici成json文件
@@ -14,37 +14,71 @@ namespace shicitojson
         public static string libsPath = Path.Combine("..", "..", "..", "libs");
         public static string sourcePath = Path.Combine("..", "..", "..", "source");
         public static string textPath = Path.Combine(libsPath, "text");
-        public static string poetJsonPath = Path.Combine(sourcePath , "poets");
-        public static string poemJsonPath = Path.Combine(sourcePath , "poems");
+
+
+
 
         public static void Main(string[] args)
         {
+            List<string> DynastyOrder = new List<string>
+            {
+                "先秦", "汉代", "三国两晋", "南北朝", "隋代", "唐代", "宋代", "元代", "明代", "清代", "近现代"
+            };
+
             Console.WriteLine("Hello, World!");
 
-            // 创建存放诗人和诗词的目录
-            Directory.CreateDirectory(poetJsonPath);
-            Directory.CreateDirectory(poemJsonPath);
-
-            foreach (var dynastyDir in Directory.GetDirectories(textPath))
+            if (!Directory.Exists(sourcePath))
             {
-                var dynasty = new DirectoryInfo(dynastyDir).Name;
-                foreach (var poetDir in Directory.GetDirectories(dynastyDir))
-                {
-                    var poetName = new DirectoryInfo(poetDir).Name;
-                    Poet poet = new Poet
-                    {
-                        name = poetName,
-                        dynasty = dynasty,
-                        poemIds = new List<string>()
-                    };
+                // 创建存放汇总信息的目录
+                Directory.CreateDirectory(sourcePath);
+            }
 
-                    var metaPath = Path.Combine(poetDir, "meta.txt");
-                    if (File.Exists(metaPath))
+            Dictionary<string, Dynasty> dynasties = new Dictionary<string, Dynasty>();
+            Dictionary<string, Poet> poets = new Dictionary<string, Poet>();
+
+            string[] array = Directory.GetDirectories(textPath);
+            for (int i = 0; i < array.Length; i++)
+            {
+                string? dynastyDir = array[i];
+                var dynasty = new DirectoryInfo(dynastyDir).Name;
+                if (!dynasties.ContainsKey(dynasty))
+                {
+                    dynasties[dynasty] = new Dynasty { Name = dynasty };
+                }
+
+                var dynastyOutputPath = Path.Combine(sourcePath, dynasty);
+                Directory.CreateDirectory(dynastyOutputPath);
+
+                string[] array1 = Directory.GetDirectories(dynastyDir);
+                for (int i1 = 0; i1 < array1.Length; i1++)
+                {
+                    string? poetDir = array1[i1];
+                    var poetName = new DirectoryInfo(poetDir).Name;
+                    Poet poet;
+                    if (!poets.ContainsKey(poetName))
                     {
-                        var authorInfo = File.ReadAllLines(metaPath);
-                        poet.birth = authorInfo.Length > 0 ? authorInfo[0].Replace("birth=", "") : "不详";
-                        poet.death = authorInfo.Length > 1 ? authorInfo[1].Replace("death=", "") : "不详";
-                        poet.description = authorInfo.Length >= 4 ? authorInfo[3] : "不详";
+                        poet = new Poet
+                        {
+                            Name = poetName,
+                            Dynasty = dynasty,
+                            Poems = new List<Poem>()
+                        };
+
+                        var metaPath = Path.Combine(poetDir, "meta.txt");
+                        if (File.Exists(metaPath))
+                        {
+                            var authorInfo = File.ReadAllLines(metaPath);
+                            poet.Birth = authorInfo.Length > 0 ? authorInfo[0].Replace("birth=", "") : "不详";
+                            poet.Death = authorInfo.Length > 1 ? authorInfo[1].Replace("death=", "") : "不详";
+                            poet.Description = authorInfo.Length >= 4 ? authorInfo[3] : "不详";
+                        }
+
+                        poets[poetName] = poet;
+                        dynasties[dynasty].PoetNames.Add(poetName);
+                    }
+                    else
+                    {
+                        poet = poets[poetName];
                     }
 
                     foreach (var poemFile in Directory.GetFiles(poetDir).Where(f => !f.EndsWith("meta.txt")))
@@ -52,58 +86,44 @@ namespace shicitojson
                         var poemName = Path.GetFileNameWithoutExtension(poemFile);
                         Poem poem = new Poem
                         {
-                            name = poemName,
-                            poetId = poet._id, // 假设Poet类中有一个_id属性用于唯一标识诗人
-                            poetName = poetName,
-                            tags = new List<string> { dynasty, poetName },
-                            contents = new List<string>()
+                            Name = poemName,
+                            PoetId = poet._id ?? (poet._id = Guid.NewGuid().ToString().Replace("-", "")),
+                            PoetName = poetName,
+                            Tags = new List<string> { dynasty, poetName },
+                            Contents = new List<string>()
                         };
 
                         var poemInfo = File.ReadAllLines(poemFile);
                         if (poemInfo.Length > 0)
                         {
-                            poem.form = poemInfo[0].Replace("form=", "");
-                        }
-                        else
-                        {
-                            poem.form = ""; // 或者根据业务逻辑设置默认值
+                            poem.Form = poemInfo[0].Replace("form=", "");
                         }
                         if (poemInfo.Length > 1 && poemInfo[1].StartsWith("tags="))
                         {
-                            poem.tags.AddRange(poemInfo[1].Replace("tags=", "").Split(',').Where(c=>!string.IsNullOrEmpty(c)));
+                            poem.Tags.AddRange(poemInfo[1].Replace("tags=", "").Split(',').Where(c => !string.IsNullOrEmpty(c)));
                         }
-                        poem.contents.AddRange(poemInfo.Skip(3).Where(c => !string.IsNullOrEmpty(c)));
+                        poem.Contents.AddRange(poemInfo.Skip(3).Where(c => !string.IsNullOrEmpty(c)));
 
-                        // 检查诗歌JSON文件是否已存在
-                        string poemJsonFilePath = Path.Combine(poemJsonPath, $"{poemName}.json");
-                        if (!File.Exists(poemJsonFilePath))
-                        {
-                            File.WriteAllText(poemJsonFilePath, JsonConvert.SerializeObject(poem, Formatting.Indented));
-                        }
-                        else
-                        {
-                            Console.WriteLine($"Skipped writing poem {poemName}, file already exists.");
-                        }
-
-                        poet.poemIds.Add(poem._id);
+                        poet.Poems.Add(poem);
                     }
 
-                    // 检查诗人JSON文件是否已存在
-                    string poetJsonFilePath = Path.Combine(poetJsonPath, $"{poetName}.json");
-                    if (!File.Exists(poetJsonFilePath))
-                    {
-                        File.WriteAllText(poetJsonFilePath, JsonConvert.SerializeObject(poet, Formatting.Indented));
-                    }
-                    else
-                    {
-                        Console.WriteLine($"Skipped writing poet {poetName}, file already exists.");
-                    }
+                    // 生成诗人的JSON文件
+                    string poetJsonFilePath = Path.Combine(dynastyOutputPath, $"{poetName}.json");
+                    File.WriteAllText(poetJsonFilePath, JsonConvert.SerializeObject(poet, Formatting.Indented));
                 }
             }
+
+            // 按照 DynastyOrder 排序并生成汇总的JSON文件
+            List<Dynasty> orderedDynasties = DynastyOrder
+                .Where(dynasty => dynasties.ContainsKey(dynasty))
+                .Select(dynasty => dynasties[dynasty])
+                .ToList();
+
+            string summaryJsonFilePath = Path.Combine(sourcePath, "dynasties.json");
+            File.WriteAllText(summaryJsonFilePath, JsonConvert.SerializeObject(orderedDynasties, Formatting.Indented));
 
             Console.WriteLine("GoodBye, World!");
             Console.ReadLine();
         }
-
     }
 }

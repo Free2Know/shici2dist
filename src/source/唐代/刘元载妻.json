@@ -1,0 +1,27 @@
+{
+  "_id": "4e94b8ae1c8749d48d9a62c8c5a211b3",
+  "Name": "刘元载妻",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "早梅",
+      "PoetId": "4e94b8ae1c8749d48d9a62c8c5a211b3",
+      "PoetName": "刘元载妻",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "刘元载妻"
+      ],
+      "Contents": [
+        "南枝向暖北枝寒，",
+        "一种春风有两般。",
+        "凭仗高楼莫吹笛，",
+        "大家留取倚阑干。"
+      ]
+    }
+  ]
+}

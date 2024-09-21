@@ -1,0 +1,27 @@
+{
+  "_id": "f94c6c2b089341499832ed64d1c6defe",
+  "Name": "徐钓者",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "自吟",
+      "PoetId": "f94c6c2b089341499832ed64d1c6defe",
+      "PoetName": "徐钓者",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "徐钓者"
+      ],
+      "Contents": [
+        "曾见秦皇架石桥，",
+        "海神忙迫涨惊潮。",
+        "蓬莱隔海虽难到，",
+        "直上三清却不遥。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "_id": "8b36dfa1b6be46ddbb34ec9b5eee158a",
+  "Name": "丁持正",
+  "Description": "",
+  "Dynasty": "宋代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "碧桃春·阮郎归",
+      "PoetId": "8b36dfa1b6be46ddbb34ec9b5eee158a",
+      "PoetName": "丁持正",
+      "Form": "词",
+      "Tags": [
+        "宋代",
+        "丁持正"
+      ],
+      "Contents": [
+        "几年辛苦捣元霜。",
+        "一朝琼粉香。",
+        "云英缥渺曳仙裳。",
+        "相将骑凤凰。",
+        "鍧帝乐，",
+        "酌天浆。",
+        "千年颜色芳。",
+        "从兹归去白云乡。",
+        "碧桃春昼长。"
+      ]
+    }
+  ]
+}

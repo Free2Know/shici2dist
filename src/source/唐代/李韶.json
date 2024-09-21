@@ -1,0 +1,27 @@
+{
+  "_id": "61c5a7a64f7f4fe0920f5ae6cd661c4f",
+  "Name": "李韶",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "题司空山观",
+      "PoetId": "61c5a7a64f7f4fe0920f5ae6cd661c4f",
+      "PoetName": "李韶",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "李韶"
+      ],
+      "Contents": [
+        "梁代真人上紫微，",
+        "水盘山脚五云飞。",
+        "松杉老尽无消息，",
+        "犹得千年一度归。"
+      ]
+    }
+  ]
+}

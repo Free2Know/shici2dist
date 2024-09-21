@@ -1,0 +1,27 @@
+{
+  "_id": "af53009604b144dca2cde9b525f84eb7",
+  "Name": "李澣",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "房公旧竹亭闻琴",
+      "PoetId": "af53009604b144dca2cde9b525f84eb7",
+      "PoetName": "李澣",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "李澣"
+      ],
+      "Contents": [
+        "石室寒飙警，",
+        "孙枝雅器裁。",
+        "坐来山水操，",
+        "弦断吊尘埃。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "_id": "ebcf62f75879426aab4ecfb3d3ec471b",
+  "Name": "史远道",
+  "Description": "",
+  "Dynasty": "宋代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "独脚令·忆王孙",
+      "PoetId": "ebcf62f75879426aab4ecfb3d3ec471b",
+      "PoetName": "史远道",
+      "Form": "词",
+      "Tags": [
+        "宋代",
+        "史远道"
+      ],
+      "Contents": [
+        "墙头梅蕊一枝新。",
+        "宋玉东邻算未真。",
+        "折与冰姿绰约人。",
+        "怯霜晨。",
+        "桃李粉粉不当春。"
+      ]
+    }
+  ]
+}

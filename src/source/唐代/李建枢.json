@@ -1,0 +1,27 @@
+{
+  "_id": "b5738ce159784dfab8fdfad3026b1329",
+  "Name": "李建枢",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "咏月",
+      "PoetId": "b5738ce159784dfab8fdfad3026b1329",
+      "PoetName": "李建枢",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "李建枢"
+      ],
+      "Contents": [
+        "昨夜圆非今夜圆，",
+        "却疑圆处减婵娟。",
+        "一年十二度圆缺，",
+        "能得几多时少年。"
+      ]
+    }
+  ]
+}

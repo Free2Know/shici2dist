@@ -1,0 +1,27 @@
+{
+  "_id": "1f2056db3e2b4af1b4b828319c2c9a7a",
+  "Name": "荆人",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "嘲僧惟恭",
+      "PoetId": "1f2056db3e2b4af1b4b828319c2c9a7a",
+      "PoetName": "荆人",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "荆人"
+      ],
+      "Contents": [
+        "灵岿作尽业，",
+        "惟恭继其迹。",
+        "地狱千万重，",
+        "莫厌排头入。"
+      ]
+    }
+  ]
+}

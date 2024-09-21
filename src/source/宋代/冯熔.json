@@ -1,0 +1,30 @@
+{
+  "_id": "805b9a7c52c34e2ab2d0a270acaf45b0",
+  "Name": "冯熔",
+  "Description": "",
+  "Dynasty": "宋代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "如梦令",
+      "PoetId": "805b9a7c52c34e2ab2d0a270acaf45b0",
+      "PoetName": "冯熔",
+      "Form": "词",
+      "Tags": [
+        "宋代",
+        "冯熔"
+      ],
+      "Contents": [
+        "素养浩然之气，",
+        "铁石心肠谁拟。",
+        "蒿目县前江，",
+        "不逐队鱼游戏。",
+        "藏器。",
+        "藏器。",
+        "只等时乘奋起。"
+      ]
+    }
+  ]
+}

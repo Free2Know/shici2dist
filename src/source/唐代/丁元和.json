@@ -1,0 +1,27 @@
+{
+  "_id": "8899721ba2854ceaadddc72d934def8e",
+  "Name": "丁元和",
+  "Description": "丁元和，后蜀时人。诗一首。",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "诗",
+      "PoetId": "8899721ba2854ceaadddc72d934def8e",
+      "PoetName": "丁元和",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "丁元和"
+      ],
+      "Contents": [
+        "九重天子人中贵，",
+        "五等诸侯阃外尊。",
+        "争似布衣云水客，",
+        "不将名字挂乾坤。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "42f3fe270777476b9d6b0d48ff0b3c30",
+  "Name": "成真人",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "题壁",
+      "PoetId": "42f3fe270777476b9d6b0d48ff0b3c30",
+      "PoetName": "成真人",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "成真人"
+      ],
+      "Contents": [
+        "蜀路南行，",
+        "燕师北至。",
+        "本拟白日升天，",
+        "且看黑龙饮渭。"
+      ]
+    }
+  ]
+}

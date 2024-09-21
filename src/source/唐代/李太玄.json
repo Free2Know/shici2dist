@@ -1,0 +1,44 @@
+{
+  "_id": "dfe8bcadae2549008c54913f32bbbf1c",
+  "Name": "李太玄",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "摘紫芝",
+      "PoetId": "dfe8bcadae2549008c54913f32bbbf1c",
+      "PoetName": "李太玄",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "李太玄"
+      ],
+      "Contents": [
+        "偶游洞府到芝田，",
+        "星月茫茫欲曙天。",
+        "虽则似离尘世了，",
+        "不知何处偶真仙。"
+      ]
+    },
+    {
+      "_id": null,
+      "Name": "玉女舞霓裳",
+      "PoetId": "dfe8bcadae2549008c54913f32bbbf1c",
+      "PoetName": "李太玄",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "李太玄"
+      ],
+      "Contents": [
+        "舞势随风散复收，",
+        "歌声似磬韵还幽。",
+        "千回赴节填词处，",
+        "娇眼如波入鬓流。"
+      ]
+    }
+  ]
+}

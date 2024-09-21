@@ -1,0 +1,44 @@
+{
+  "_id": "61b2ccc0eeb446eab341b56917b55c33",
+  "Name": "西施",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "西施诗",
+      "PoetId": "61b2ccc0eeb446eab341b56917b55c33",
+      "PoetName": "西施",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "西施"
+      ],
+      "Contents": [
+        "云霞出没群峰外，",
+        "鸥鸟浮沈一水间。",
+        "一自越兵齐振地，",
+        "梦魂不到虎丘山。"
+      ]
+    },
+    {
+      "_id": null,
+      "Name": "谢王轩",
+      "PoetId": "61b2ccc0eeb446eab341b56917b55c33",
+      "PoetName": "西施",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "西施"
+      ],
+      "Contents": [
+        "妾自吴宫还越国，",
+        "素衣千载无人识。",
+        "当时心比金石坚，",
+        "今日为君坚不得。"
+      ]
+    }
+  ]
+}

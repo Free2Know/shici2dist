@@ -1,0 +1,27 @@
+{
+  "_id": "6f4a973ab5ee42ea8cdf2d1474ab7a34",
+  "Name": "虞姬",
+  "Description": "",
+  "Dynasty": "汉代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "和项王歌",
+      "PoetId": "6f4a973ab5ee42ea8cdf2d1474ab7a34",
+      "PoetName": "虞姬",
+      "Form": "五绝",
+      "Tags": [
+        "汉代",
+        "虞姬"
+      ],
+      "Contents": [
+        "汉兵已略地，",
+        "四方楚歌声。",
+        "大王意气尽，",
+        "贱妾何聊生！"
+      ]
+    }
+  ]
+}

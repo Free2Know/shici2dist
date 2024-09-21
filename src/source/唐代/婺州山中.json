@@ -1,0 +1,27 @@
+{
+  "_id": "79af6688fa084c5fbc746b0df26e720f",
+  "Name": "婺州山中",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "歌",
+      "PoetId": "79af6688fa084c5fbc746b0df26e720f",
+      "PoetName": "婺州山中",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "婺州山中"
+      ],
+      "Contents": [
+        "静居青嶂里，",
+        "高啸紫烟中。",
+        "尘世连仙界，",
+        "琼田前路通。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "_id": "a99ca6c1ad1f4b409d3b8f3836c2fab2",
+  "Name": "何令修",
+  "Description": "",
+  "Dynasty": "宋代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "望江南·忆江南",
+      "PoetId": "a99ca6c1ad1f4b409d3b8f3836c2fab2",
+      "PoetName": "何令修",
+      "Form": "七绝",
+      "Tags": [
+        "宋代",
+        "何令修"
+      ],
+      "Contents": [
+        "登龙脊，",
+        "抚剑一长歌。",
+        "巫峡峰高腾凤鹤，",
+        "夔门波阔失蛟鼍。",
+        "东望意如何。"
+      ]
+    }
+  ]
+}

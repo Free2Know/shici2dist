@@ -1,0 +1,27 @@
+{
+  "_id": "301aba27842b409f8326abefcd4df2fb",
+  "Name": "毛明素",
+  "Description": "毛明素，贞观中人。诗一首。",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "与琳法师",
+      "PoetId": "301aba27842b409f8326abefcd4df2fb",
+      "PoetName": "毛明素",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "毛明素"
+      ],
+      "Contents": [
+        "冶长倦缧绁，",
+        "韩安叹死灰。",
+        "始验山中木，",
+        "方知贵不材。"
+      ]
+    }
+  ]
+}

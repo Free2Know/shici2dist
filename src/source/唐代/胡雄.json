@@ -1,0 +1,27 @@
+{
+  "_id": "3cdc22478bad4f4ead5f1bb6e0904f03",
+  "Name": "胡雄",
+  "Description": "胡雄，开元时人。诗一首。",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "郊庙歌辞·仪坤庙乐章·舒和",
+      "PoetId": "3cdc22478bad4f4ead5f1bb6e0904f03",
+      "PoetName": "胡雄",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "胡雄"
+      ],
+      "Contents": [
+        "送文迎武递参差，",
+        "一始一终光圣仪。",
+        "四海生人歌有庆，",
+        "千龄孝享肃无亏。"
+      ]
+    }
+  ]
+}

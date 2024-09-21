@@ -1,0 +1,27 @@
+{
+  "_id": "866b906ab46f455b9e3c14c212fb51fe",
+  "Name": "吴人",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "咏痴",
+      "PoetId": "866b906ab46f455b9e3c14c212fb51fe",
+      "PoetName": "吴人",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "吴人"
+      ],
+      "Contents": [
+        "榆儿复榆妇，",
+        "造屋兼造车。",
+        "十七八九夜，",
+        "还书复借书。"
+      ]
+    }
+  ]
+}

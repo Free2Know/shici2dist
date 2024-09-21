@@ -1,0 +1,27 @@
+{
+  "_id": "cffe1c09c34e431990f71dbc8b660355",
+  "Name": "张家玉",
+  "Description": "",
+  "Dynasty": "明代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "怀内",
+      "PoetId": "cffe1c09c34e431990f71dbc8b660355",
+      "PoetName": "张家玉",
+      "Form": "七绝",
+      "Tags": [
+        "明代",
+        "张家玉"
+      ],
+      "Contents": [
+        "连江风雨雁争飞，",
+        "目送南天泪满衣。",
+        "少妇夜深休闭阁，",
+        "行人多向梦中归。"
+      ]
+    }
+  ]
+}

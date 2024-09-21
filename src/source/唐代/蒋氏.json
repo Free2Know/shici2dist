@@ -1,0 +1,27 @@
+{
+  "_id": "5b9b7dbb9f1e4f44ada4b26db5aff038",
+  "Name": "蒋氏",
+  "Description": "蒋氏，吴越时湖州司法参军陆蒙妻也。性耽酒，善属文。  诗一首。",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "答诸姊妹戒饮",
+      "PoetId": "5b9b7dbb9f1e4f44ada4b26db5aff038",
+      "PoetName": "蒋氏",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "蒋氏"
+      ],
+      "Contents": [
+        "平生偏好酒，",
+        "劳尔劝吾餐。",
+        "但得杯中满，",
+        "时光度不难。"
+      ]
+    }
+  ]
+}

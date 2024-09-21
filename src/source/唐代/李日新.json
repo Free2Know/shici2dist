@@ -1,0 +1,27 @@
+{
+  "_id": "72c1b82d60094f2fa871adfacb043eb1",
+  "Name": "李日新",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "题仙娥驿",
+      "PoetId": "72c1b82d60094f2fa871adfacb043eb1",
+      "PoetName": "李日新",
+      "Form": "未知",
+      "Tags": [
+        "唐代",
+        "李日新"
+      ],
+      "Contents": [
+        "商山食店大悠悠，",
+        "陈鹖饣追锣古飠念头。",
+        "更有台中牛肉炙，",
+        "尚盘数脔紫光球。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "aebdedf092a143bab5f58c41fbfa834b",
+  "Name": "崔敏童",
+  "Description": "崔敏童，驸马都尉惠童之昆弟也。诗一首。",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "宴城东庄",
+      "PoetId": "aebdedf092a143bab5f58c41fbfa834b",
+      "PoetName": "崔敏童",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "崔敏童"
+      ],
+      "Contents": [
+        "一年始有一年春，",
+        "百岁曾无百岁人。",
+        "能向花前几回醉，",
+        "十千沽酒莫辞贫。"
+      ]
+    }
+  ]
+}

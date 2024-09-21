@@ -1,0 +1,27 @@
+{
+  "_id": "cd4ea9270c23496d90ecb4f8ef3c1034",
+  "Name": "郫城令",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "示女诗",
+      "PoetId": "cd4ea9270c23496d90ecb4f8ef3c1034",
+      "PoetName": "郫城令",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "郫城令"
+      ],
+      "Contents": [
+        "深宫富贵事风流，",
+        "莫忘生身老骨头。",
+        "因与太师欢笑处，",
+        "为吾方便觅彭州。"
+      ]
+    }
+  ]
+}

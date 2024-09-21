@@ -1,0 +1,27 @@
+{
+  "_id": "f28cafe326bc4a27b2d8e3f875badb08",
+  "Name": "赵谦光",
+  "Description": "赵谦光，咸亨中，登进士第，自彭州司马入为大理正，迁户部郎中。诗一首。",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "答户部员外贺遂涉戏赠",
+      "PoetId": "f28cafe326bc4a27b2d8e3f875badb08",
+      "PoetName": "赵谦光",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "赵谦光"
+      ],
+      "Contents": [
+        "锦帐随情设，",
+        "金炉任意熏。",
+        "惟愁员外署，",
+        "不应列星文。"
+      ]
+    }
+  ]
+}

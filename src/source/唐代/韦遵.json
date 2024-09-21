@@ -1,0 +1,27 @@
+{
+  "_id": "cabe936ddd0642b78903cf89dbce056e",
+  "Name": "韦遵",
+  "Description": "后周起居郎。诗一首。",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "题施画竹图",
+      "PoetId": "cabe936ddd0642b78903cf89dbce056e",
+      "PoetName": "韦遵",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "韦遵"
+      ],
+      "Contents": [
+        "枯箨危根缴石头，",
+        "千竿交映近清流。",
+        "堪珍仲宝穷幽笔，",
+        "留得荆湘一片秋。"
+      ]
+    }
+  ]
+}

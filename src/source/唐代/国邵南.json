@@ -1,0 +1,27 @@
+{
+  "_id": "4b0a834e4b3b4ab4864de422c56165d2",
+  "Name": "国邵南",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "梦崔嘏妻诗",
+      "PoetId": "4b0a834e4b3b4ab4864de422c56165d2",
+      "PoetName": "国邵南",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "国邵南"
+      ],
+      "Contents": [
+        "莫以真留妾，",
+        "从他理管弦。",
+        "容华难久驻，",
+        "知得几多年。"
+      ]
+    }
+  ]
+}

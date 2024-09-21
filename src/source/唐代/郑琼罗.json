@@ -1,0 +1,27 @@
+{
+  "_id": "38f7b868ba6e43a29c8325fbd46fe57b",
+  "Name": "郑琼罗",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "叙幽冤",
+      "PoetId": "38f7b868ba6e43a29c8325fbd46fe57b",
+      "PoetName": "郑琼罗",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "郑琼罗"
+      ],
+      "Contents": [
+        "痛填心兮不能语，",
+        "寸断肠兮诉何处。",
+        "春生万物妾不生，",
+        "更恨香魂不相遇。"
+      ]
+    }
+  ]
+}

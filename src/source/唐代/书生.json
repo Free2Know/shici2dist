@@ -1,0 +1,27 @@
+{
+  "_id": "2e88beb25ea946c19ee82d106aa73f7a",
+  "Name": "书生",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "献元载",
+      "PoetId": "2e88beb25ea946c19ee82d106aa73f7a",
+      "PoetName": "书生",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "书生"
+      ],
+      "Contents": [
+        "城东城西旧居处，",
+        "城里飞花乱如絮。",
+        "海燕衔泥欲下来，",
+        "屋里无人却飞去。"
+      ]
+    }
+  ]
+}

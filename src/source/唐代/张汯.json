@@ -1,0 +1,27 @@
+{
+  "_id": "b4f94caec80b490baed69a818d3d65bc",
+  "Name": "张汯",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "相和歌辞·怨诗",
+      "PoetId": "b4f94caec80b490baed69a818d3d65bc",
+      "PoetName": "张汯",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "张汯"
+      ],
+      "Contents": [
+        "去年离别雁初归，",
+        "今夜裁缝萤已飞。",
+        "征客去来音信断，",
+        "不知何处寄寒衣。"
+      ]
+    }
+  ]
+}

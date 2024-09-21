@@ -1,0 +1,44 @@
+{
+  "_id": "db6dfe4d00ec443a886fe9f4aff3d587",
+  "Name": "李适之",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "朝退",
+      "PoetId": "db6dfe4d00ec443a886fe9f4aff3d587",
+      "PoetName": "李适之",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "李适之"
+      ],
+      "Contents": [
+        "朱门长不闭，",
+        "亲友恣相过。",
+        "年今将半百，",
+        "不乐复如何。"
+      ]
+    },
+    {
+      "_id": null,
+      "Name": "罢相作",
+      "PoetId": "db6dfe4d00ec443a886fe9f4aff3d587",
+      "PoetName": "李适之",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "李适之"
+      ],
+      "Contents": [
+        "避贤初罢相，",
+        "乐圣且衔杯。",
+        "为问门前客，",
+        "今朝几个来？"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "_id": "a29d1d5dcbb14b05a6e8837fe66dc0f2",
+  "Name": "刘皂",
+  "Description": "刘皂，贞元间人，诗五首。",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "旅次朔方",
+      "PoetId": "a29d1d5dcbb14b05a6e8837fe66dc0f2",
+      "PoetName": "刘皂",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "刘皂"
+      ],
+      "Contents": [
+        "客舍并州数十霜，",
+        "归心日夜忆咸阳。",
+        "无端又渡桑干水，",
+        "却望并州似故乡。"
+      ]
+    },
+    {
+      "_id": null,
+      "Name": "边城柳",
+      "PoetId": "a29d1d5dcbb14b05a6e8837fe66dc0f2",
+      "PoetName": "刘皂",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "刘皂"
+      ],
+      "Contents": [
+        "一株新柳色，",
+        "十里断孤城。",
+        "为近东西路，",
+        "长悬离别情。"
+      ]
+    },
+    {
+      "_id": null,
+      "Name": "长门怨",
+      "PoetId": "a29d1d5dcbb14b05a6e8837fe66dc0f2",
+      "PoetName": "刘皂",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "刘皂"
+      ],
+      "Contents": [
+        "雨滴长门秋夜长，",
+        "愁心和雨到昭阳。",
+        "泪痕不学君恩断，",
+        "拭却千行更万行。"
+      ]
+    }
+  ]
+}

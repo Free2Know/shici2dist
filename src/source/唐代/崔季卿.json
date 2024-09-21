@@ -1,0 +1,27 @@
+{
+  "_id": "47a7363eb1b34dfaafa55164c1e68e1f",
+  "Name": "崔季卿",
+  "Description": "崔季卿，峒之从孙。诗一首。",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "晴江秋望",
+      "PoetId": "47a7363eb1b34dfaafa55164c1e68e1f",
+      "PoetName": "崔季卿",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "崔季卿"
+      ],
+      "Contents": [
+        "八月长江万里晴，",
+        "千帆一道带风轻。",
+        "尽日不分天水色，",
+        "洞庭南是岳阳城。"
+      ]
+    }
+  ]
+}

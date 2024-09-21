@@ -1,0 +1,27 @@
+{
+  "_id": "019dc7ea005f4e5fb96fa0f1a9239598",
+  "Name": "杨持",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "寄朗陵兄",
+      "PoetId": "019dc7ea005f4e5fb96fa0f1a9239598",
+      "PoetName": "杨持",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "杨持"
+      ],
+      "Contents": [
+        "刺举官犹屈，",
+        "风谣政已成。",
+        "行看换龟组，",
+        "奏最谒承明。"
+      ]
+    }
+  ]
+}

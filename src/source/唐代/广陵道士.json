@@ -1,0 +1,27 @@
+{
+  "_id": "3baae00de6d04ce296c89ff5fa297561",
+  "Name": "广陵道士",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "戏吟",
+      "PoetId": "3baae00de6d04ce296c89ff5fa297561",
+      "PoetName": "广陵道士",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "广陵道士"
+      ],
+      "Contents": [
+        "无事到扬州，",
+        "相携上酒楼。",
+        "药囊为赠别，",
+        "千载更何求。"
+      ]
+    }
+  ]
+}

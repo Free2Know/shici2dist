@@ -1,0 +1,27 @@
+{
+  "_id": "b88fc84afe8a401f8367bc27b02f1302",
+  "Name": "赵虚舟",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "戏赠",
+      "PoetId": "b88fc84afe8a401f8367bc27b02f1302",
+      "PoetName": "赵虚舟",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "赵虚舟"
+      ],
+      "Contents": [
+        "砌下梧桐叶正齐，",
+        "花繁雨后压枝低。",
+        "报道不须鸦鸟乱，",
+        "他家自有凤凰栖。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "afa0e17952244536bfca78b26ad406e5",
+  "Name": "王硕",
+  "Description": "唐末人。诗一首。",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "和三乡诗",
+      "PoetId": "afa0e17952244536bfca78b26ad406e5",
+      "PoetName": "王硕",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "王硕"
+      ],
+      "Contents": [
+        "无姓无名越水滨，",
+        "芳词空怨路傍人。",
+        "莫教才子偏惆怅，",
+        "宋玉东家是旧邻。"
+      ]
+    }
+  ]
+}

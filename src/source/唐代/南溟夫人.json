@@ -1,0 +1,27 @@
+{
+  "_id": "e34fc46bf4e34ff2a43bbddc62d040e2",
+  "Name": "南溟夫人",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "题玉壶赠元柳二子",
+      "PoetId": "e34fc46bf4e34ff2a43bbddc62d040e2",
+      "PoetName": "南溟夫人",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "南溟夫人"
+      ],
+      "Contents": [
+        "来从一叶舟中来，",
+        "去向百花桥上去。",
+        "若到人间扣玉壶，",
+        "鸳鸯自解分明语。"
+      ]
+    }
+  ]
+}

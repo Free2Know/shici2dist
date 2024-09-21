@@ -1,0 +1,27 @@
+{
+  "_id": "2eeb4f77549a467c8094dc0b7c83a101",
+  "Name": "白玉蟾",
+  "Description": "",
+  "Dynasty": "宋代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "早春",
+      "PoetId": "2eeb4f77549a467c8094dc0b7c83a101",
+      "PoetName": "白玉蟾",
+      "Form": "七绝",
+      "Tags": [
+        "宋代",
+        "白玉蟾"
+      ],
+      "Contents": [
+        "南枝才放两三花，",
+        "雪里吟香弄粉些。",
+        "淡淡著烟浓著月，",
+        "深深笼水浅笼沙。"
+      ]
+    }
+  ]
+}

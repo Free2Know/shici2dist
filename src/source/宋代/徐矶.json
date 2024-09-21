@@ -1,0 +1,27 @@
+{
+  "_id": "6531ba8c4ccf4e89a01e59b3101c7e3b",
+  "Name": "徐矶",
+  "Description": "",
+  "Dynasty": "宋代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "新凉",
+      "PoetId": "6531ba8c4ccf4e89a01e59b3101c7e3b",
+      "PoetName": "徐矶",
+      "Form": "七绝",
+      "Tags": [
+        "宋代",
+        "徐矶"
+      ],
+      "Contents": [
+        "水满田畴稻叶齐，",
+        "日光穿树晓烟低。",
+        "黄莺也爱新凉好，",
+        "飞过青山影里啼。"
+      ]
+    }
+  ]
+}

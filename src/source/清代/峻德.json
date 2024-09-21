@@ -1,0 +1,27 @@
+{
+  "_id": "28b0bed308ed42b09166fadc16bd55f7",
+  "Name": "峻德",
+  "Description": "",
+  "Dynasty": "清代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "望潼关",
+      "PoetId": "28b0bed308ed42b09166fadc16bd55f7",
+      "PoetName": "峻德",
+      "Form": "七绝",
+      "Tags": [
+        "清代",
+        "峻德"
+      ],
+      "Contents": [
+        "立马风陵望汉关，",
+        "云峰高出白云间。",
+        "西来一曲昆仑水，",
+        "划断中条太华山。"
+      ]
+    }
+  ]
+}

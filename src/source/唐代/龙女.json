@@ -1,0 +1,44 @@
+{
+  "_id": "c3ef4dcea42045439f73eb5a0680cf3d",
+  "Name": "龙女",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "与何光远赠答诗",
+      "PoetId": "c3ef4dcea42045439f73eb5a0680cf3d",
+      "PoetName": "龙女",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "龙女"
+      ],
+      "Contents": [
+        "坐久风吹绿绮寒，",
+        "九天月照水精盘。",
+        "不思却返沈潜去，",
+        "为惜春光一夜欢。"
+      ]
+    },
+    {
+      "_id": null,
+      "Name": "感怀诗",
+      "PoetId": "c3ef4dcea42045439f73eb5a0680cf3d",
+      "PoetName": "龙女",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "龙女"
+      ],
+      "Contents": [
+        "海门连洞庭，",
+        "每去三千里。",
+        "十载一归来，",
+        "辛苦潇湘水。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "_id": "f1b2ab599e094330a542c13f0f18fda6",
+  "Name": "珠帘秀",
+  "Description": "",
+  "Dynasty": "元代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "落梅风",
+      "PoetId": "f1b2ab599e094330a542c13f0f18fda6",
+      "PoetName": "珠帘秀",
+      "Form": "词",
+      "Tags": [
+        "元代",
+        "珠帘秀"
+      ],
+      "Contents": [
+        "山无数，",
+        "烟万缕。",
+        "憔悴煞玉堂人物，",
+        "倚篷窗一身儿活受苦。",
+        "恨不得随大江东去！"
+      ]
+    }
+  ]
+}

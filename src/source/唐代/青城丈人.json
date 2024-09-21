@@ -1,0 +1,27 @@
+{
+  "_id": "36ef6fd655c14c7aadf47ac8044f9c59",
+  "Name": "青城丈人",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "送太乙真君酒",
+      "PoetId": "36ef6fd655c14c7aadf47ac8044f9c59",
+      "PoetName": "青城丈人",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "青城丈人"
+      ],
+      "Contents": [
+        "峨嵋仙府静沈沈，",
+        "玉液金华莫厌斟。",
+        "凡客欲知真一洞，",
+        "剑门西北五云深。"
+      ]
+    }
+  ]
+}

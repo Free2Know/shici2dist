@@ -1,0 +1,27 @@
+{
+  "_id": "fb90bee34b9344ab9648b91d6d9e9e40",
+  "Name": "孔稚圭",
+  "Description": "",
+  "Dynasty": "南北朝",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "游太平山",
+      "PoetId": "fb90bee34b9344ab9648b91d6d9e9e40",
+      "PoetName": "孔稚圭",
+      "Form": "五绝",
+      "Tags": [
+        "南北朝",
+        "孔稚圭"
+      ],
+      "Contents": [
+        "石险天貌分，",
+        "林交日容缺。",
+        "阴涧落春荣，",
+        "寒岩留夏雪。"
+      ]
+    }
+  ]
+}

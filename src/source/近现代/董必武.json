@@ -1,0 +1,27 @@
+{
+  "_id": "eaf410a2a5fc4cb181b66e6d9208f62c",
+  "Name": "董必武",
+  "Description": "",
+  "Dynasty": "近现代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "游镜泊湖",
+      "PoetId": "eaf410a2a5fc4cb181b66e6d9208f62c",
+      "PoetName": "董必武",
+      "Form": "七绝",
+      "Tags": [
+        "近现代",
+        "董必武"
+      ],
+      "Contents": [
+        "泛舟南北两湖头，",
+        "到处青幽不用求。",
+        "水碧山青宜入画，",
+        "游人欣赏愿勾留。"
+      ]
+    }
+  ]
+}

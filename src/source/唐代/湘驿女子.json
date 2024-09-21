@@ -1,0 +1,27 @@
+{
+  "_id": "73ce6601349e4d759b1042c97b1a1edc",
+  "Name": "湘驿女子",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "题玉泉溪",
+      "PoetId": "73ce6601349e4d759b1042c97b1a1edc",
+      "PoetName": "湘驿女子",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "湘驿女子"
+      ],
+      "Contents": [
+        "红叶醉秋色，",
+        "碧溪弹夜弦。",
+        "佳期不可再，",
+        "风雨杳如年。"
+      ]
+    }
+  ]
+}

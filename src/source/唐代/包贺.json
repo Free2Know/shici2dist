@@ -1,0 +1,29 @@
+{
+  "_id": "7f62a0ffe753467c81d281adea1bbd30",
+  "Name": "包贺",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "谐诗逸句",
+      "PoetId": "7f62a0ffe753467c81d281adea1bbd30",
+      "PoetName": "包贺",
+      "Form": "未知",
+      "Tags": [
+        "唐代",
+        "包贺"
+      ],
+      "Contents": [
+        "雾是山巾子，",
+        "船为水靸鞋。",
+        "棹摇船掠鬓，",
+        "风动水槌胸。",
+        "苦竹笋抽青橛子，",
+        "石榴树挂小瓶儿。"
+      ]
+    }
+  ]
+}

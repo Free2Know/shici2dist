@@ -1,0 +1,27 @@
+{
+  "_id": "46d49f8edd30447b89a01ca8bcc466b1",
+  "Name": "黎瓘",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "赠漳州崔使君乡饮翻韵诗",
+      "PoetId": "46d49f8edd30447b89a01ca8bcc466b1",
+      "PoetName": "黎瓘",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "黎瓘"
+      ],
+      "Contents": [
+        "惯向溪边折柳杨，",
+        "因循行客到州漳。",
+        "无端触忤王衙押，",
+        "不得今朝看饮乡。"
+      ]
+    }
+  ]
+}

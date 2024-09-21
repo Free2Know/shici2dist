@@ -1,0 +1,27 @@
+{
+  "_id": "81dfabf211c24b82baa2faab11020391",
+  "Name": "省吏",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "嘲崔左丞",
+      "PoetId": "81dfabf211c24b82baa2faab11020391",
+      "PoetName": "省吏",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "省吏"
+      ],
+      "Contents": [
+        "崔子曲如钩，",
+        "随例得封侯。",
+        "髆上全无项，",
+        "胸前别有头。"
+      ]
+    }
+  ]
+}

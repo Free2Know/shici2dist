@@ -1,0 +1,27 @@
+{
+  "_id": "a3b3f318fcb84c50bf40f51fec8abe1d",
+  "Name": "张文收",
+  "Description": "张文收，贝州人。善音律。贞观初，授协律郎。咸宁中，迁太子率更令。撰《新乐书》十二卷，存诗一首。",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "大酺乐",
+      "PoetId": "a3b3f318fcb84c50bf40f51fec8abe1d",
+      "PoetName": "张文收",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "张文收"
+      ],
+      "Contents": [
+        "泪滴珠难尽，",
+        "容残玉易销。",
+        "倘随明月去，",
+        "莫道梦魂遥。"
+      ]
+    }
+  ]
+}

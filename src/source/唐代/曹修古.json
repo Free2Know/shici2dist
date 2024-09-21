@@ -1,0 +1,27 @@
+{
+  "_id": "988d99ca98114ca48b1b75fa6077a43e",
+  "Name": "曹修古",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "池上",
+      "PoetId": "988d99ca98114ca48b1b75fa6077a43e",
+      "PoetName": "曹修古",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "曹修古"
+      ],
+      "Contents": [
+        "荷叶罩芙蓉，",
+        "圆青映嫩红。",
+        "佳人南陌上，",
+        "翠盖立春风。"
+      ]
+    }
+  ]
+}

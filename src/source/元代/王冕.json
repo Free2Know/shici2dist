@@ -1,0 +1,61 @@
+{
+  "_id": "9bc60aae16704daa9f74bebdc8768e70",
+  "Name": "王冕",
+  "Description": "",
+  "Dynasty": "元代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "墨梅",
+      "PoetId": "9bc60aae16704daa9f74bebdc8768e70",
+      "PoetName": "王冕",
+      "Form": "七绝",
+      "Tags": [
+        "元代",
+        "王冕"
+      ],
+      "Contents": [
+        "吾家洗砚池头树，",
+        "朵朵花开淡墨痕。",
+        "不要人夸颜色好，",
+        "只留清气满乾坤。"
+      ]
+    },
+    {
+      "_id": null,
+      "Name": "梅花",
+      "PoetId": "9bc60aae16704daa9f74bebdc8768e70",
+      "PoetName": "王冕",
+      "Form": "七绝",
+      "Tags": [
+        "元代",
+        "王冕"
+      ],
+      "Contents": [
+        "三月东风吹雪消，",
+        "湖南山色翠如滴。",
+        "一声羌管无人见，",
+        "无数梅花落野桥。"
+      ]
+    },
+    {
+      "_id": null,
+      "Name": "白梅",
+      "PoetId": "9bc60aae16704daa9f74bebdc8768e70",
+      "PoetName": "王冕",
+      "Form": "七绝",
+      "Tags": [
+        "元代",
+        "王冕"
+      ],
+      "Contents": [
+        "冰雪林中著此身，",
+        "不同桃李混芳尘。",
+        "忽然一夜清风发，",
+        "散价乾坤万里春。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "854c0fad44944bfaa61577e8eae342f9",
+  "Name": "峡中白衣",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "赠马植",
+      "PoetId": "854c0fad44944bfaa61577e8eae342f9",
+      "PoetName": "峡中白衣",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "峡中白衣"
+      ],
+      "Contents": [
+        "截竹为筒作笛吹，",
+        "凤凰池上凤凰飞。",
+        "劳君更向黔南去，",
+        "即是陶钧万类时。"
+      ]
+    }
+  ]
+}

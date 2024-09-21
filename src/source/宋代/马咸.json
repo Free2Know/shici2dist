@@ -1,0 +1,27 @@
+{
+  "_id": "98eebe161ab2466595f0c4f0e82f8f0a",
+  "Name": "马咸",
+  "Description": "",
+  "Dynasty": "宋代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "遂宁好",
+      "PoetId": "98eebe161ab2466595f0c4f0e82f8f0a",
+      "PoetName": "马咸",
+      "Form": "未知",
+      "Tags": [
+        "宋代",
+        "马咸"
+      ],
+      "Contents": [
+        "遂宁好，",
+        "胜地产糖霜。",
+        "不待千年成琥珀，",
+        "真疑六月冻琼浆。"
+      ]
+    }
+  ]
+}

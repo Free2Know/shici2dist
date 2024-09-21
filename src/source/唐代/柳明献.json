@@ -1,0 +1,27 @@
+{
+  "_id": "9b7bc8fde9a8478d89a11ede5edc8cbf",
+  "Name": "柳明献",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "游昌化精舍",
+      "PoetId": "9b7bc8fde9a8478d89a11ede5edc8cbf",
+      "PoetName": "柳明献",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "柳明献"
+      ],
+      "Contents": [
+        "宝台侵汉远，",
+        "金地接霞高。",
+        "何必游天外，",
+        "忻此契卢敖。"
+      ]
+    }
+  ]
+}

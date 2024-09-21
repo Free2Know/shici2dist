@@ -1,0 +1,27 @@
+{
+  "_id": "cab0ca4132c1404fa754ecac557772f3",
+  "Name": "林佩环",
+  "Description": "",
+  "Dynasty": "清代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "赠外",
+      "PoetId": "cab0ca4132c1404fa754ecac557772f3",
+      "PoetName": "林佩环",
+      "Form": "七绝",
+      "Tags": [
+        "清代",
+        "林佩环"
+      ],
+      "Contents": [
+        "爱君笔底有烟霞，",
+        "自拔金钗付酒家。",
+        "修到人间才子妇，",
+        "不辞清瘦似梅花。"
+      ]
+    }
+  ]
+}

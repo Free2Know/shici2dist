@@ -1,0 +1,27 @@
+{
+  "_id": "e722f6eff806469bb4f1ca3cea0f0277",
+  "Name": "郭向",
+  "Description": "郭向，太子尉。诗一首。",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "途中口号",
+      "PoetId": "e722f6eff806469bb4f1ca3cea0f0277",
+      "PoetName": "郭向",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "郭向"
+      ],
+      "Contents": [
+        "抱玉三朝楚，",
+        "怀书十上秦。",
+        "年年洛阳陌，",
+        "花鸟弄归人。"
+      ]
+    }
+  ]
+}

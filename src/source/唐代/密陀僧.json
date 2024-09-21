@@ -1,0 +1,27 @@
+{
+  "_id": "570a82a42bbd48e498fbf59957af1291",
+  "Name": "密陀僧",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "湖城厅吟",
+      "PoetId": "570a82a42bbd48e498fbf59957af1291",
+      "PoetName": "密陀僧",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "密陀僧"
+      ],
+      "Contents": [
+        "黄帝上天时，",
+        "鼎湖元在兹。",
+        "七十二玉女，",
+        "化作黄金芝。"
+      ]
+    }
+  ]
+}

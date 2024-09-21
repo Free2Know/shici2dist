@@ -1,0 +1,44 @@
+{
+  "_id": "e1f12e67c60d4634bafffe1b61a4b371",
+  "Name": "蔡昆",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "句",
+      "PoetId": "e1f12e67c60d4634bafffe1b61a4b371",
+      "PoetName": "蔡昆",
+      "Form": "未知",
+      "Tags": [
+        "唐代",
+        "蔡昆"
+      ],
+      "Contents": [
+        "飘飘随暮雨，",
+        "飒飒落秋山。",
+        "（《落叶》，",
+        "王正字《诗格》）"
+      ]
+    },
+    {
+      "_id": null,
+      "Name": "善卷先生坛",
+      "PoetId": "e1f12e67c60d4634bafffe1b61a4b371",
+      "PoetName": "蔡昆",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "蔡昆"
+      ],
+      "Contents": [
+        "几到坛边登阁望，",
+        "因思遗迹咏今朝。",
+        "当时为有重华出，",
+        "不是先生傲帝尧。"
+      ]
+    }
+  ]
+}

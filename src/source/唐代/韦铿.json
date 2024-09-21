@@ -1,0 +1,27 @@
+{
+  "_id": "b18f425122f24229bb1cbf29aa0439a3",
+  "Name": "韦铿",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "嘲邵景、萧嵩",
+      "PoetId": "b18f425122f24229bb1cbf29aa0439a3",
+      "PoetName": "韦铿",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "韦铿"
+      ],
+      "Contents": [
+        "一双胡子著绯袍，",
+        "一个须多一鼻高。",
+        "相对厅前捺且立，",
+        "自惭身品世间毛。"
+      ]
+    }
+  ]
+}

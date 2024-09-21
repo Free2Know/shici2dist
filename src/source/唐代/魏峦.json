@@ -1,0 +1,27 @@
+{
+  "_id": "6d7a31f117464c159a56b2f6d6dc9ea6",
+  "Name": "魏峦",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "登清居台",
+      "PoetId": "6d7a31f117464c159a56b2f6d6dc9ea6",
+      "PoetName": "魏峦",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "魏峦"
+      ],
+      "Contents": [
+        "迤逦清居台，",
+        "连延白云外。",
+        "侧聆天上语，",
+        "下视飞鸟背。"
+      ]
+    }
+  ]
+}

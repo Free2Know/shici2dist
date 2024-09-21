@@ -1,0 +1,27 @@
+{
+  "_id": "c14b31dc7d114e6e94433e77f3ecdf59",
+  "Name": "陈嶰",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "寻易尊师不遇",
+      "PoetId": "c14b31dc7d114e6e94433e77f3ecdf59",
+      "PoetName": "陈嶰",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "陈嶰"
+      ],
+      "Contents": [
+        "烂熳红霞光照衣，",
+        "苔封白石路微微。",
+        "华阳洞里何人在，",
+        "落尽松花不见归。"
+      ]
+    }
+  ]
+}

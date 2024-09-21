@@ -1,0 +1,27 @@
+{
+  "_id": "fe4e70b26fc94714bd8a0f4d013e4f66",
+  "Name": "孙子多",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "嘲郑傪妓",
+      "PoetId": "fe4e70b26fc94714bd8a0f4d013e4f66",
+      "PoetName": "孙子多",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "孙子多"
+      ],
+      "Contents": [
+        "相公经文复经武，",
+        "常侍好今兼好古。",
+        "昔人曾闻阿武婆，",
+        "今日亲见阿婆舞。"
+      ]
+    }
+  ]
+}

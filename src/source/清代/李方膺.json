@@ -1,0 +1,27 @@
+{
+  "_id": "3baef27f6b224342936c9485dccb8f18",
+  "Name": "李方膺",
+  "Description": "",
+  "Dynasty": "清代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "题画梅",
+      "PoetId": "3baef27f6b224342936c9485dccb8f18",
+      "PoetName": "李方膺",
+      "Form": "七绝",
+      "Tags": [
+        "清代",
+        "李方膺"
+      ],
+      "Contents": [
+        "挥毫落纸墨痕新，",
+        "几点梅花最可人。",
+        "愿借天风吹得远，",
+        "家家门巷尽成春。"
+      ]
+    }
+  ]
+}

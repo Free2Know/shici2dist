@@ -1,0 +1,27 @@
+{
+  "_id": "97d2ed946075467cbf98b656e9f6c85a",
+  "Name": "冯小青",
+  "Description": "",
+  "Dynasty": "明代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "无题",
+      "PoetId": "97d2ed946075467cbf98b656e9f6c85a",
+      "PoetName": "冯小青",
+      "Form": "七绝",
+      "Tags": [
+        "明代",
+        "冯小青"
+      ],
+      "Contents": [
+        "冷雨幽窗不可听，",
+        "挑灯闲看牡丹亭。",
+        "人间亦有痴于我，",
+        "岂独伤心是小青！"
+      ]
+    }
+  ]
+}

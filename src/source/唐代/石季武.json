@@ -1,0 +1,27 @@
+{
+  "_id": "eeae123cb00b401197825d0effb0bb6f",
+  "Name": "石季武",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "梦中诗",
+      "PoetId": "eeae123cb00b401197825d0effb0bb6f",
+      "PoetName": "石季武",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "石季武"
+      ],
+      "Contents": [
+        "耸辔排金阙，",
+        "乘轩上汉槎。",
+        "浮名何足恋，",
+        "高举入烟霞。"
+      ]
+    }
+  ]
+}

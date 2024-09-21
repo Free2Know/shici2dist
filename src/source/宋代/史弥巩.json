@@ -1,0 +1,29 @@
+{
+  "_id": "1b3ce3accbe94cd5a8317ed204e9a77a",
+  "Name": "史弥巩",
+  "Description": "",
+  "Dynasty": "宋代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "失调名",
+      "PoetId": "1b3ce3accbe94cd5a8317ed204e9a77a",
+      "PoetName": "史弥巩",
+      "Form": "未知",
+      "Tags": [
+        "宋代",
+        "史弥巩"
+      ],
+      "Contents": [
+        "羊左合人我。",
+        "左既绝粮甘自饿。",
+        "羊仕楚王官职大。",
+        "依旧杀身蓬颗。",
+        "颜公畴昔曾经过。",
+        "佳咏至今传播。"
+      ]
+    }
+  ]
+}

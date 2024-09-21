@@ -1,0 +1,27 @@
+{
+  "_id": "8bb504d3a4ad49b8a102ee7cfbd7ed7d",
+  "Name": "德宗宫人",
+  "Description": "德宗宫人，奉恩院王才人养女凤儿也。诗一首。",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "题花叶诗",
+      "PoetId": "8bb504d3a4ad49b8a102ee7cfbd7ed7d",
+      "PoetName": "德宗宫人",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "德宗宫人"
+      ],
+      "Contents": [
+        "一入深宫里，",
+        "无由得见春。",
+        "题诗花叶上，",
+        "寄与接流人。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "fbfa4d9a7f9043eeabc2c44518eae7d3",
+  "Name": "官舍尘生",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "失题",
+      "PoetId": "fbfa4d9a7f9043eeabc2c44518eae7d3",
+      "PoetName": "官舍尘生",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "官舍尘生"
+      ],
+      "Contents": [
+        "寄书寂寂於陵子，",
+        "蓬蒿没身胡不仕。",
+        "藜羹被褐环堵中，",
+        "岁晚将贻故人耻。"
+      ]
+    }
+  ]
+}

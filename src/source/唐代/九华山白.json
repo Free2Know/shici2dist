@@ -1,0 +1,27 @@
+{
+  "_id": "aa22cfc1dfc641a4926a02ba6c251ded",
+  "Name": "九华山白",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "吟",
+      "PoetId": "aa22cfc1dfc641a4926a02ba6c251ded",
+      "PoetName": "九华山白",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "九华山白"
+      ],
+      "Contents": [
+        "涧水潺潺声不绝，",
+        "溪垅茫茫野花发。",
+        "自去自来人不知，",
+        "归时唯对空山月。"
+      ]
+    }
+  ]
+}

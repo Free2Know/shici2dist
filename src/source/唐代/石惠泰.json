@@ -1,0 +1,27 @@
+{
+  "_id": "6aed2b14e0bd4e36862c89d51b5d4901",
+  "Name": "石惠泰",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "与李全交诗",
+      "PoetId": "6aed2b14e0bd4e36862c89d51b5d4901",
+      "PoetName": "石惠泰",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "石惠泰"
+      ],
+      "Contents": [
+        "御史非常任，",
+        "参军不久居。",
+        "待君迁转后，",
+        "此职还到余。"
+      ]
+    }
+  ]
+}

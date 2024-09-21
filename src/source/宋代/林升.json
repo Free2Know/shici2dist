@@ -1,0 +1,27 @@
+{
+  "_id": "f37dee0e0c294cbaa88348450887c52f",
+  "Name": "林升",
+  "Description": "",
+  "Dynasty": "宋代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "题临安邸",
+      "PoetId": "f37dee0e0c294cbaa88348450887c52f",
+      "PoetName": "林升",
+      "Form": "七绝",
+      "Tags": [
+        "宋代",
+        "林升"
+      ],
+      "Contents": [
+        "山外青山楼外楼，",
+        "西湖歌舞几时休。",
+        "暖风熏得游人醉，",
+        "直把杭州作汴州。"
+      ]
+    }
+  ]
+}

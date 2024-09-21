@@ -1,0 +1,27 @@
+{
+  "_id": "85d1b2930ac9479caa58964d2fd0931f",
+  "Name": "金农",
+  "Description": "",
+  "Dynasty": "清代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "过小孤山",
+      "PoetId": "85d1b2930ac9479caa58964d2fd0931f",
+      "PoetName": "金农",
+      "Form": "七绝",
+      "Tags": [
+        "清代",
+        "金农"
+      ],
+      "Contents": [
+        "古县萧条对岸开，",
+        "大江行色榜人催。",
+        "水多风处轻抬眼，",
+        "浮出青山似覆杯。"
+      ]
+    }
+  ]
+}

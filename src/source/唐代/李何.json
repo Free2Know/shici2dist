@@ -1,0 +1,27 @@
+{
+  "_id": "1a05eb8cbcfa43a38a6149658b5128ad",
+  "Name": "李何",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "观妓",
+      "PoetId": "1a05eb8cbcfa43a38a6149658b5128ad",
+      "PoetName": "李何",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "李何"
+      ],
+      "Contents": [
+        "向晚小乘游，",
+        "朝来新上头。",
+        "从来许长袖，",
+        "未有客难留。"
+      ]
+    }
+  ]
+}

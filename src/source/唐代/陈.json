@@ -1,0 +1,27 @@
+{
+  "_id": "6ab46470cbce42008a595b60db11e7a5",
+  "Name": "陈",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "临刑诗不知书时以为鬼代作",
+      "PoetId": "6ab46470cbce42008a595b60db11e7a5",
+      "PoetName": "陈",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "陈"
+      ],
+      "Contents": [
+        "积玉堆金官又崇，",
+        "祸来倏忽变成空。",
+        "五年荣贵今何在，",
+        "不异南柯一梦中。"
+      ]
+    }
+  ]
+}

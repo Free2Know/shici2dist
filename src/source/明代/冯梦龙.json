@@ -1,0 +1,27 @@
+{
+  "_id": "2bcafcabcde24771834211407b506ef8",
+  "Name": "冯梦龙",
+  "Description": "",
+  "Dynasty": "明代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "醒世恒言",
+      "PoetId": "2bcafcabcde24771834211407b506ef8",
+      "PoetName": "冯梦龙",
+      "Form": "五绝",
+      "Tags": [
+        "明代",
+        "冯梦龙"
+      ],
+      "Contents": [
+        "富贵本无根，",
+        "尽从勤里得。",
+        "请观懒惰者，",
+        "面待饥寒色。"
+      ]
+    }
+  ]
+}

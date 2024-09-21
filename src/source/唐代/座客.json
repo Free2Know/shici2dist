@@ -1,0 +1,27 @@
+{
+  "_id": "e8b447ef1c9240d5a8610ca8594be2ab",
+  "Name": "座客",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "嘲周颛",
+      "PoetId": "e8b447ef1c9240d5a8610ca8594be2ab",
+      "PoetName": "座客",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "座客"
+      ],
+      "Contents": [
+        "龙津掉尾十年劳，",
+        "声价当时斗月高。",
+        "惟有红妆回舞手，",
+        "似持霜刀向猿猱。"
+      ]
+    }
+  ]
+}

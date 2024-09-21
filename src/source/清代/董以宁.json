@@ -1,0 +1,27 @@
+{
+  "_id": "10bc01f27da94b52a8e2a7943d69d14d",
+  "Name": "董以宁",
+  "Description": "",
+  "Dynasty": "清代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "闺怨",
+      "PoetId": "10bc01f27da94b52a8e2a7943d69d14d",
+      "PoetName": "董以宁",
+      "Form": "七绝",
+      "Tags": [
+        "清代",
+        "董以宁"
+      ],
+      "Contents": [
+        "流苏空系合欢床，",
+        "夫婿长征妾断肠。",
+        "留得当时临别泪，",
+        "经年不忍浣衣裳。"
+      ]
+    }
+  ]
+}

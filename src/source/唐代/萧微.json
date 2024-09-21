@@ -1,0 +1,27 @@
+{
+  "_id": "47e3a68c10134cdf9d95fd4200e580df",
+  "Name": "萧微",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "题少陵别墅",
+      "PoetId": "47e3a68c10134cdf9d95fd4200e580df",
+      "PoetName": "萧微",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "萧微"
+      ],
+      "Contents": [
+        "新构茅斋野涧东，",
+        "松楸交影足悲风。",
+        "人间岁月如流水，",
+        "何事频行此路中。"
+      ]
+    }
+  ]
+}

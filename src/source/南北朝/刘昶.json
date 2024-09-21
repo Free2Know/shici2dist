@@ -1,0 +1,27 @@
+{
+  "_id": "23e8d3a64b3444b4ab06e80ec7094381",
+  "Name": "刘昶",
+  "Description": "",
+  "Dynasty": "南北朝",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "断句",
+      "PoetId": "23e8d3a64b3444b4ab06e80ec7094381",
+      "PoetName": "刘昶",
+      "Form": "五绝",
+      "Tags": [
+        "南北朝",
+        "刘昶"
+      ],
+      "Contents": [
+        "白云满鄣来，",
+        "黄尘暗天起。",
+        "关山四面绝，",
+        "故乡几千里。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "28adf761fb614f47aaf91e3867a863d8",
+  "Name": "顾从礼",
+  "Description": "",
+  "Dynasty": "元代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "黄浦",
+      "PoetId": "28adf761fb614f47aaf91e3867a863d8",
+      "PoetName": "顾从礼",
+      "Form": "七绝",
+      "Tags": [
+        "元代",
+        "顾从礼"
+      ],
+      "Contents": [
+        "黄浦滩头微雨晴，",
+        "龙华渡口晚潮生。",
+        "行人夜泊应无语，",
+        "试听吴歌矣乃声。"
+      ]
+    }
+  ]
+}

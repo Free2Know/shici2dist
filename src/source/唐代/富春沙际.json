@@ -1,0 +1,44 @@
+{
+  "_id": "85e5d9530f3d49b59d812fc3b7bf3a00",
+  "Name": "富春沙际",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "又吟",
+      "PoetId": "85e5d9530f3d49b59d812fc3b7bf3a00",
+      "PoetName": "富春沙际",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "富春沙际"
+      ],
+      "Contents": [
+        "莫问我姓名，",
+        "向君言亦空。",
+        "潮生沙骨冷，",
+        "魂魄悲秋风。"
+      ]
+    },
+    {
+      "_id": null,
+      "Name": "吟",
+      "PoetId": "85e5d9530f3d49b59d812fc3b7bf3a00",
+      "PoetName": "富春沙际",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "富春沙际"
+      ],
+      "Contents": [
+        "陊江三十年，",
+        "潮打形骸朽。",
+        "家人都不知，",
+        "何处奠杯酒。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "_id": "5f0dca53c5b04ecaa3c15a0bec418cb3",
+  "Name": "孙万寿",
+  "Description": "",
+  "Dynasty": "隋代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "早发扬州还乡邑",
+      "PoetId": "5f0dca53c5b04ecaa3c15a0bec418cb3",
+      "PoetName": "孙万寿",
+      "Form": "未知",
+      "Tags": [
+        "隋代",
+        "孙万寿"
+      ],
+      "Contents": [
+        "关不再见，",
+        "怅望穷此晨。",
+        "山烟蔽钟阜。",
+        "水雾隐江津。",
+        "洲渚敛寒色，",
+        "杜若变芳春。",
+        "无复归飞羽，",
+        "空悲沙塞尘。"
+      ]
+    }
+  ]
+}

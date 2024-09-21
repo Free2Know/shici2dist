@@ -1,0 +1,27 @@
+{
+  "_id": "9e2736feacb245a88f2e29ea699ad455",
+  "Name": "唐末僧",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "题户诗",
+      "PoetId": "9e2736feacb245a88f2e29ea699ad455",
+      "PoetName": "唐末僧",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "唐末僧"
+      ],
+      "Contents": [
+        "枕有思乡泪，",
+        "门无问疾人。",
+        "尘埋床下履，",
+        "风动架头巾。"
+      ]
+    }
+  ]
+}

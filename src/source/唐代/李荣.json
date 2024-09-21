@@ -1,0 +1,27 @@
+{
+  "_id": "e32383d3cf1b4ab39fa2deb3a70cf8d0",
+  "Name": "李荣",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "咏兴善寺佛殿灾",
+      "PoetId": "e32383d3cf1b4ab39fa2deb3a70cf8d0",
+      "PoetName": "李荣",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "李荣"
+      ],
+      "Contents": [
+        "道善何曾善，",
+        "言兴且不兴。",
+        "如来烧赤尽，",
+        "惟有一群僧。"
+      ]
+    }
+  ]
+}

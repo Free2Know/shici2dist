@@ -1,0 +1,27 @@
+{
+  "_id": "e0d3e661fcbe48608361cdf462f1ba9c",
+  "Name": "卢言",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "上安禄山",
+      "PoetId": "e0d3e661fcbe48608361cdf462f1ba9c",
+      "PoetName": "卢言",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "卢言"
+      ],
+      "Contents": [
+        "象曰云雷屯，",
+        "大君理经纶。",
+        "马上取天下，",
+        "雪中朝海神。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "dcebc7c3940043469f73e2b715c13acf",
+  "Name": "陈庆之",
+  "Description": "",
+  "Dynasty": "清代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "二月朔日夜观灯偶成",
+      "PoetId": "dcebc7c3940043469f73e2b715c13acf",
+      "PoetName": "陈庆之",
+      "Form": "七绝",
+      "Tags": [
+        "清代",
+        "陈庆之"
+      ],
+      "Contents": [
+        "通街士女涌如潮，",
+        "历乱灯光照碧霄。",
+        "箫管酿成春一片，",
+        "还疑今夕是元宵。"
+      ]
+    }
+  ]
+}

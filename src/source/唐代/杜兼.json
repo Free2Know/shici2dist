@@ -1,0 +1,26 @@
+{
+  "_id": "cd7b7e00085f4e91b530d1b28ccd6336",
+  "Name": "杜兼",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "题书卷后语",
+      "PoetId": "cd7b7e00085f4e91b530d1b28ccd6336",
+      "PoetName": "杜兼",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "杜兼"
+      ],
+      "Contents": [
+        "倩俸写来手自校，",
+        "汝曹读之知圣道，",
+        "坠之鬻之为不孝。"
+      ]
+    }
+  ]
+}

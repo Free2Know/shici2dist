@@ -1,0 +1,31 @@
+{
+  "_id": "83ffeaeab84f4cda923892ac219a6bf4",
+  "Name": "陆游妾",
+  "Description": "",
+  "Dynasty": "宋代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "生查子",
+      "PoetId": "83ffeaeab84f4cda923892ac219a6bf4",
+      "PoetName": "陆游妾",
+      "Form": "五律",
+      "Tags": [
+        "宋代",
+        "陆游妾"
+      ],
+      "Contents": [
+        "只知眉上愁，",
+        "不识愁来路。",
+        "窗外有芭蕉，",
+        "阵阵黄昏雨。",
+        "晓起理残妆，",
+        "整顿教愁去。",
+        "不合画春山，",
+        "依旧留愁住。"
+      ]
+    }
+  ]
+}

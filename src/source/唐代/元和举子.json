@@ -1,0 +1,27 @@
+{
+  "_id": "7768f7d227734de8b0d0b9dacd9fe7cf",
+  "Name": "元和举子",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "丙申岁诗",
+      "PoetId": "7768f7d227734de8b0d0b9dacd9fe7cf",
+      "PoetName": "元和举子",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "元和举子"
+      ],
+      "Contents": [
+        "元和天子丙申年，",
+        "三十三人同得仙。",
+        "袍似烂银文似锦，",
+        "相将白日上青天。"
+      ]
+    }
+  ]
+}

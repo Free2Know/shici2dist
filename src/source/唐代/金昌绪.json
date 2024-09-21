@@ -1,0 +1,27 @@
+{
+  "_id": "146a96ec036f424f87110bdc36e30e30",
+  "Name": "金昌绪",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "春怨",
+      "PoetId": "146a96ec036f424f87110bdc36e30e30",
+      "PoetName": "金昌绪",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "金昌绪"
+      ],
+      "Contents": [
+        "打起黄莺儿，",
+        "莫教枝上啼。",
+        "啼时惊妾梦，",
+        "不得到辽西。"
+      ]
+    }
+  ]
+}

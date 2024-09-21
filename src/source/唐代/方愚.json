@@ -1,0 +1,27 @@
+{
+  "_id": "0bda4ea14ec84a8eb58f590d879863e0",
+  "Name": "方愚",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "读孝经",
+      "PoetId": "0bda4ea14ec84a8eb58f590d879863e0",
+      "PoetName": "方愚",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "方愚"
+      ],
+      "Contents": [
+        "星彩满天朝北极，",
+        "源流是处赴东溟。",
+        "为臣为子不忠孝，",
+        "辜负宣尼一卷经。"
+      ]
+    }
+  ]
+}

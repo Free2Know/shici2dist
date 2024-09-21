@@ -1,0 +1,44 @@
+{
+  "_id": "11cbe6ae7ff54aa78eddbddb305311d3",
+  "Name": "张敬忠",
+  "Description": "张敬忠，官监察御史，以文吏著称。张仁亶在朔方，奏判军事。开元中，为平卢节度使。诗二首。",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "戏咏",
+      "PoetId": "11cbe6ae7ff54aa78eddbddb305311d3",
+      "PoetName": "张敬忠",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "张敬忠"
+      ],
+      "Contents": [
+        "有意嫌兵部，",
+        "专心望考功。",
+        "谁知脚蹭蹬，",
+        "几落省墙东。"
+      ]
+    },
+    {
+      "_id": null,
+      "Name": "边词",
+      "PoetId": "11cbe6ae7ff54aa78eddbddb305311d3",
+      "PoetName": "张敬忠",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "张敬忠"
+      ],
+      "Contents": [
+        "五原春色旧来迟，",
+        "二月垂杨未挂丝。",
+        "即今河畔冰开日，",
+        "正是长安花落时。"
+      ]
+    }
+  ]
+}

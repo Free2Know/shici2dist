@@ -1,0 +1,27 @@
+{
+  "_id": "8bf2d65547bd49ab9a067af1f65ed689",
+  "Name": "耽章",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "辞南平钟王召",
+      "PoetId": "8bf2d65547bd49ab9a067af1f65ed689",
+      "PoetName": "耽章",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "耽章"
+      ],
+      "Contents": [
+        "摧残枯木倚寒林，",
+        "几度逢春不变心。",
+        "樵客见之犹不采，",
+        "郢人何事苦搜寻。"
+      ]
+    }
+  ]
+}

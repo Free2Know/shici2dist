@@ -1,0 +1,31 @@
+{
+  "_id": "9e6cd2a7ebb94cdcab9cc4d0550fca6b",
+  "Name": "黄山隐",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "向竹吟",
+      "PoetId": "9e6cd2a7ebb94cdcab9cc4d0550fca6b",
+      "PoetName": "黄山隐",
+      "Form": "五律",
+      "Tags": [
+        "唐代",
+        "黄山隐"
+      ],
+      "Contents": [
+        "积尘为太山，",
+        "掬水成东海。",
+        "富贵有时乖，",
+        "希夷无日改。",
+        "绛节出崆峒，",
+        "霓衣发光彩。",
+        "古者有七贤，",
+        "六个今何在。"
+      ]
+    }
+  ]
+}

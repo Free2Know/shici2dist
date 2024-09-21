@@ -1,0 +1,32 @@
+{
+  "_id": "cadbfb9e890243b6b9b4a140b75c7fa5",
+  "Name": "刘著",
+  "Description": "No comment now.",
+  "Dynasty": "宋代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "鹧鸪天",
+      "PoetId": "cadbfb9e890243b6b9b4a140b75c7fa5",
+      "PoetName": "刘著",
+      "Form": "词",
+      "Tags": [
+        "宋代",
+        "刘著"
+      ],
+      "Contents": [
+        "照山城玉指寒，",
+        "一声羌管怨楼闲。",
+        "江南几度梅花发，",
+        "人在天涯鬓已斑。",
+        "星点点，",
+        "月团团，",
+        "倒流河汉入杯盘。",
+        "翰林风月三千首，",
+        "寄与吴姬忍泪看。"
+      ]
+    }
+  ]
+}

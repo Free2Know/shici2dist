@@ -1,0 +1,29 @@
+{
+  "_id": "14fed88042ee44eca7f8e2fc3fe3bf8a",
+  "Name": "范真人",
+  "Description": "",
+  "Dynasty": "元代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "步步娇",
+      "PoetId": "14fed88042ee44eca7f8e2fc3fe3bf8a",
+      "PoetName": "范真人",
+      "Form": "词",
+      "Tags": [
+        "元代",
+        "范真人"
+      ],
+      "Contents": [
+        "住在古窑墓。",
+        "行坐立歌舞。",
+        "捉住这真空，",
+        "猛悟。",
+        "自古及今说龙虎。",
+        "无"
+      ]
+    }
+  ]
+}

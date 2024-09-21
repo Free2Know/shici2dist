@@ -1,0 +1,27 @@
+{
+  "_id": "cb0cf255ecfb4886879cee67bcbb44e0",
+  "Name": "守常",
+  "Description": "守常（生卒不详），元时武陵僧，俗姓李，十二岁即出家。",
+  "Dynasty": "元代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "禅居",
+      "PoetId": "cb0cf255ecfb4886879cee67bcbb44e0",
+      "PoetName": "守常",
+      "Form": "未知",
+      "Tags": [
+        "元代",
+        "守常"
+      ],
+      "Contents": [
+        "晓风飘磬远，",
+        "暮雪入廊深。",
+        "念载禅房宿，",
+        "慇懃自洗心。"
+      ]
+    }
+  ]
+}

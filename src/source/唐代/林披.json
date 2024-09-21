@@ -1,0 +1,29 @@
+{
+  "_id": "fb6a23ee09aa4ed7bba0a8dda6dbf587",
+  "Name": "林披",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "秋气尚高凉",
+      "PoetId": "fb6a23ee09aa4ed7bba0a8dda6dbf587",
+      "PoetName": "林披",
+      "Form": "未知",
+      "Tags": [
+        "唐代",
+        "林披"
+      ],
+      "Contents": [
+        "秋气尚高凉，",
+        "寒笛吹万木。",
+        "故人入我庭，",
+        "相照不出屋。",
+        "山川虽远观，",
+        "高怀不能掬。"
+      ]
+    }
+  ]
+}

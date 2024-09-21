@@ -1,0 +1,27 @@
+{
+  "_id": "c1ade39576ed4e8b9a2070fb9f94cedc",
+  "Name": "呼文如",
+  "Description": "",
+  "Dynasty": "明代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "寄丘生东粤",
+      "PoetId": "c1ade39576ed4e8b9a2070fb9f94cedc",
+      "PoetName": "呼文如",
+      "Form": "七绝",
+      "Tags": [
+        "明代",
+        "呼文如"
+      ],
+      "Contents": [
+        "郎马无凭似蟢蛛，",
+        "也有游丝在路途。",
+        "侬心好似春蚕茧，",
+        "镇日牵丝不出庐。"
+      ]
+    }
+  ]
+}

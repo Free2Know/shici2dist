@@ -1,0 +1,27 @@
+{
+  "_id": "5bdb242edc3d40709ecde9e706574ec6",
+  "Name": "元础",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "句",
+      "PoetId": "5bdb242edc3d40709ecde9e706574ec6",
+      "PoetName": "元础",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "元础"
+      ],
+      "Contents": [
+        "寺隔残潮去。",
+        "采药过泉声。",
+        "林塘秋半宿，",
+        "风雨夜深来。"
+      ]
+    }
+  ]
+}

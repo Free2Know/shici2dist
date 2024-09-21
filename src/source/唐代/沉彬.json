@@ -1,0 +1,27 @@
+{
+  "_id": "bcfd6986da6441ecb64beed268d24a2f",
+  "Name": "沉彬",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "杂曲歌辞·结客少年场行",
+      "PoetId": "bcfd6986da6441ecb64beed268d24a2f",
+      "PoetName": "沉彬",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "沉彬"
+      ],
+      "Contents": [
+        "重义轻生一剑知，",
+        "白虹贯日报仇归。",
+        "片心惆怅清平世，",
+        "酒市无人问布衣。"
+      ]
+    }
+  ]
+}

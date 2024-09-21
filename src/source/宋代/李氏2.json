@@ -1,0 +1,29 @@
+{
+  "_id": "d38eeb5be6ff4e59871443f8bd587fbb",
+  "Name": "李氏2",
+  "Description": "",
+  "Dynasty": "宋代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "浣溪沙",
+      "PoetId": "d38eeb5be6ff4e59871443f8bd587fbb",
+      "PoetName": "李氏2",
+      "Form": "五律",
+      "Tags": [
+        "宋代",
+        "李氏2"
+      ],
+      "Contents": [
+        "无力蔷薇带雨低。",
+        "多情蝴蝶趁花飞。",
+        "流水飘香乳燕啼。",
+        "南浦魂销春不管，",
+        "东阳衣减镜仙知。",
+        "小楼今夜月依依。"
+      ]
+    }
+  ]
+}

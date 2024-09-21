@@ -1,0 +1,27 @@
+{
+  "_id": "16a16b8df2124ef49d9ff04885ec2efc",
+  "Name": "道潜",
+  "Description": "",
+  "Dynasty": "宋代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "口占绝句",
+      "PoetId": "16a16b8df2124ef49d9ff04885ec2efc",
+      "PoetName": "道潜",
+      "Form": "七绝",
+      "Tags": [
+        "宋代",
+        "道潜"
+      ],
+      "Contents": [
+        "寄语东山窈窕娘，",
+        "好将幽梦恼襄王。",
+        "禅心已作沾泥絮，",
+        "不逐春风上下狂。"
+      ]
+    }
+  ]
+}

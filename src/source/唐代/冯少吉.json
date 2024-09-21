@@ -1,0 +1,27 @@
+{
+  "_id": "38deab34c4764c998b41b8ad9fd0c186",
+  "Name": "冯少吉",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "山寺见杨少卿书壁，因题其尾",
+      "PoetId": "38deab34c4764c998b41b8ad9fd0c186",
+      "PoetName": "冯少吉",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "冯少吉"
+      ],
+      "Contents": [
+        "少卿真迹满僧居，",
+        "只恐钟王也不如。",
+        "为报远公须爱惜，",
+        "此书书后更无书。"
+      ]
+    }
+  ]
+}

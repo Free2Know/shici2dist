@@ -1,0 +1,27 @@
+{
+  "_id": "ab35d5d3ad8942009aacb9a8a26130fd",
+  "Name": "马冉",
+  "Description": "唐末万州刺史。诗一首。",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "岑公岩",
+      "PoetId": "ab35d5d3ad8942009aacb9a8a26130fd",
+      "PoetName": "马冉",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "马冉"
+      ],
+      "Contents": [
+        "南溪有仙涧，",
+        "咫尺非人间。",
+        "泠泠松风下，",
+        "日暮空苍山。"
+      ]
+    }
+  ]
+}

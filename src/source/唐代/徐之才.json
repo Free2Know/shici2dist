@@ -1,0 +1,27 @@
+{
+  "_id": "07acb123b8424aebb734193a15920ff4",
+  "Name": "徐之才",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "下山逢故夫",
+      "PoetId": "07acb123b8424aebb734193a15920ff4",
+      "PoetName": "徐之才",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "徐之才"
+      ],
+      "Contents": [
+        "踟蹰下山妇，",
+        "共申别离久。",
+        "为问织缣人，",
+        "何必长相守。"
+      ]
+    }
+  ]
+}

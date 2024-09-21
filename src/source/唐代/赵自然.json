@@ -1,0 +1,27 @@
+{
+  "_id": "37e7ee3cb2a3444da1305edf0fef3ccb",
+  "Name": "赵自然",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "诗",
+      "PoetId": "37e7ee3cb2a3444da1305edf0fef3ccb",
+      "PoetName": "赵自然",
+      "Form": "五绝",
+      "Tags": [
+        "唐代",
+        "赵自然"
+      ],
+      "Contents": [
+        "常欲栖山岛，",
+        "闲眠玉洞寒。",
+        "丹哥时引舞，",
+        "来去跨云鸾。"
+      ]
+    }
+  ]
+}

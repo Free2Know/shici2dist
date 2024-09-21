@@ -1,0 +1,27 @@
+{
+  "_id": "dcebe4eba86e47fabb5646f654f04357",
+  "Name": "景龙文馆",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "长宁公主宅流杯",
+      "PoetId": "dcebe4eba86e47fabb5646f654f04357",
+      "PoetName": "景龙文馆",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "景龙文馆"
+      ],
+      "Contents": [
+        "凭高瞰迥足怡心，",
+        "菌阁桃源不暇寻。",
+        "余雪依林成玉树，",
+        "残霙点岫即瑶岑。"
+      ]
+    }
+  ]
+}

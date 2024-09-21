@@ -1,0 +1,27 @@
+{
+  "_id": "2b9b343e58f746cbbd5d37ebe41cb697",
+  "Name": "曾麻几",
+  "Description": "曾麻几，吉州人。诗一首。",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "放猿",
+      "PoetId": "2b9b343e58f746cbbd5d37ebe41cb697",
+      "PoetName": "曾麻几",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "曾麻几"
+      ],
+      "Contents": [
+        "孤猿锁槛岁年深，",
+        "放出城南百丈林。",
+        "绿水任从联臂饮，",
+        "青山不用断肠吟。"
+      ]
+    }
+  ]
+}

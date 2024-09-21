@@ -1,0 +1,27 @@
+{
+  "_id": "29ccd67745d049deb6ee2b8912625df4",
+  "Name": "李真",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "丈人山诗",
+      "PoetId": "29ccd67745d049deb6ee2b8912625df4",
+      "PoetName": "李真",
+      "Form": "未知",
+      "Tags": [
+        "唐代",
+        "李真"
+      ],
+      "Contents": [
+        "春冻晓鞯露重，",
+        "夜寒幽枕云生。",
+        "岂是与山无素，",
+        "丈人著帽相迎。"
+      ]
+    }
+  ]
+}

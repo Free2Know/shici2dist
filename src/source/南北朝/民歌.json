@@ -1,0 +1,27 @@
+{
+  "_id": "4a28339e973e4439bfa48bb931ea578b",
+  "Name": "民歌",
+  "Description": "",
+  "Dynasty": "南北朝",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "采桑",
+      "PoetId": "4a28339e973e4439bfa48bb931ea578b",
+      "PoetName": "民歌",
+      "Form": "五绝",
+      "Tags": [
+        "南北朝",
+        "民歌"
+      ],
+      "Contents": [
+        "蚕生春三月，",
+        "春桑正含绿。",
+        "女儿采春桑，",
+        "歌吹当春曲。"
+      ]
+    }
+  ]
+}

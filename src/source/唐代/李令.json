@@ -1,0 +1,27 @@
+{
+  "_id": "bb044288c8c743b799c6ced8690de7f6",
+  "Name": "李令",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "寄女",
+      "PoetId": "bb044288c8c743b799c6ced8690de7f6",
+      "PoetName": "李令",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "李令"
+      ],
+      "Contents": [
+        "有人教我向衡阳，",
+        "一度思归欲断肠。",
+        "为报艳妻兼少女，",
+        "与吾觅取朗州场。"
+      ]
+    }
+  ]
+}

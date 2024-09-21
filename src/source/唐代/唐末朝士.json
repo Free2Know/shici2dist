@@ -1,0 +1,27 @@
+{
+  "_id": "d9b787c204ed4f33b9ef4ebebd5a6397",
+  "Name": "唐末朝士",
+  "Description": "",
+  "Dynasty": "唐代",
+  "Birth": "",
+  "Death": "",
+  "Poems": [
+    {
+      "_id": null,
+      "Name": "睹野花思京师旧游",
+      "PoetId": "d9b787c204ed4f33b9ef4ebebd5a6397",
+      "PoetName": "唐末朝士",
+      "Form": "七绝",
+      "Tags": [
+        "唐代",
+        "唐末朝士"
+      ],
+      "Contents": [
+        "曾过街西看牡丹，",
+        "牡丹才谢便心阑。",
+        "如今变作村园眼，",
+        "鼓子花开也喜欢。"
+      ]
+    }
+  ]
+}
